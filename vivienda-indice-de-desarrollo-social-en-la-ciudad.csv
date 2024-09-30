@@ -1,0 +1,1077 @@
+id,anio,mun,estratos,sexo,edad,total,total_low,total_upp,dim,nomgeo
+0,2015.0,2.0,Pobreza muy alta,Hombre,0-11,6807.0,470205937424000.0,891194062576000.0,Vivienda,Azcapotzalco
+1,2015.0,2.0,Pobreza muy alta,Hombre,30-44,5675.0,417542392758000.0,717457607242000.0,Vivienda,Azcapotzalco
+2,2015.0,2.0,Pobreza muy alta,Hombre,45-59,3813.0,264617507654000.0,497982492346000.0,Vivienda,Azcapotzalco
+3,2015.0,2.0,Pobreza muy alta,Mujer,30-44,7053.0,539025178752000.0,871574821248000.0,Vivienda,Azcapotzalco
+4,2015.0,2.0,Pobreza alta,Hombre,No especificado,15.0,-212564290443000.0,512564290443000.0,Vivienda,Azcapotzalco
+5,2015.0,2.0,Pobreza alta,Mujer,60 y mas,2091.0,129652003819000.0,288547996181000.0,Vivienda,Azcapotzalco
+6,2015.0,2.0,Pobreza moderada,Hombre,60 y mas,5344.0,412772688447000.0,656027311553000.0,Vivienda,Azcapotzalco
+7,2015.0,2.0,Pobreza moderada,Mujer,30-44,10169.0,824401136411000.0,120939886359000.0,Vivienda,Azcapotzalco
+8,2015.0,2.0,Pobreza moderada,Mujer,60 y mas,7518.0,529815391432000.0,973784608568000.0,Vivienda,Azcapotzalco
+9,2015.0,2.0,Pobreza moderada,Mujer,No especificado,9.0,-137456969874000.0,317456969874000.0,Vivienda,Azcapotzalco
+10,2015.0,2.0,Satisfaccion mínima,Hombre,45-59,5652.0,427387851498000.0,703012148502000.0,Vivienda,Azcapotzalco
+11,2015.0,2.0,Satisfaccion mínima,Mujer,0-11,4636.0,337850879802000.0,589349120198000.0,Vivienda,Azcapotzalco
+12,2015.0,2.0,Satisfaccion mínima,Mujer,12-29,8481.0,662265372435000.0,103393462757000.0,Vivienda,Azcapotzalco
+13,2015.0,2.0,Satisfaccion mínima,Mujer,No especificado,30.0,-37287404454800.0,97287404454800.0,Vivienda,Azcapotzalco
+14,2015.0,2.0,Estrato medio,Hombre,0-11,6164.0,474408601861000.0,758391398139000.0,Vivienda,Azcapotzalco
+15,2015.0,2.0,Estrato medio,Hombre,45-59,11491.0,978674457815000.0,131952554218000.0,Vivienda,Azcapotzalco
+16,2015.0,2.0,Estrato medio,Mujer,0-11,5809.0,451373921149000.0,710426078851000.0,Vivienda,Azcapotzalco
+17,2015.0,2.0,Estrato medio,Mujer,No especificado,47.0,-292036102430000.0,123203610243000.0,Vivienda,Azcapotzalco
+18,2015.0,2.0,Estrato alto,Hombre,12-29,3395.0,227853079418000.0,451146920582000.0,Vivienda,Azcapotzalco
+19,2015.0,2.0,Estrato alto,Hombre,60 y mas,5786.0,425012356814000.0,732187643186000.0,Vivienda,Azcapotzalco
+20,2015.0,2.0,Estrato alto,Mujer,0-11,759.0,530601013268000.0,987398986732000.0,Vivienda,Azcapotzalco
+21,2015.0,2.0,Estrato alto,Mujer,12-29,4067.0,271536832503000.0,541863167497000.0,Vivienda,Azcapotzalco
+22,2015.0,2.0,Estrato alto,Mujer,45-59,6129.0,452233164958000.0,773566835042000.0,Vivienda,Azcapotzalco
+23,2015.0,2.0,Estrato alto,Mujer,60 y mas,10409.0,827294271022000.0,125450572898000.0,Vivienda,Azcapotzalco
+24,2015.0,3.0,Pobreza muy alta,Hombre,0-11,9039.0,699093831321000.0,110870616868000.0,Vivienda,Coyoacán
+25,2015.0,3.0,Pobreza muy alta,Hombre,45-59,5081.0,382611389791000.0,633588610209000.0,Vivienda,Coyoacán
+26,2015.0,3.0,Pobreza muy alta,Mujer,45-59,5300.0,390942626999000.0,669057373001000.0,Vivienda,Coyoacán
+27,2015.0,3.0,Pobreza muy alta,Mujer,No especificado,118.0,-41982483548400.0,277982483548000.0,Vivienda,Coyoacán
+28,2015.0,3.0,Pobreza alta,Hombre,45-59,3514.0,260122868727000.0,442677131273000.0,Vivienda,Coyoacán
+29,2015.0,3.0,Pobreza alta,Mujer,0-11,4399.0,32438621803000.0,55541378197000.0,Vivienda,Coyoacán
+30,2015.0,3.0,Pobreza alta,Mujer,60 y mas,2706.0,180974939985000.0,360225060015000.0,Vivienda,Coyoacán
+31,2015.0,3.0,Pobreza alta,Mujer,No especificado,68.0,-163808262693000.0,152380826269000.0,Vivienda,Coyoacán
+32,2015.0,3.0,Pobreza moderada,Hombre,12-29,15032.0,123276270925000.0,177363729075000.0,Vivienda,Coyoacán
+33,2015.0,3.0,Pobreza moderada,Hombre,30-44,11394.0,932411939120000.0,13463880608800.0,Vivienda,Coyoacán
+34,2015.0,3.0,Pobreza moderada,Hombre,45-59,8803.0,712322137005000.0,104827786299000.0,Vivienda,Coyoacán
+35,2015.0,3.0,Pobreza moderada,Mujer,30-44,12931.0,104545410387000.0,154074589613000.0,Vivienda,Coyoacán
+36,2015.0,3.0,Pobreza moderada,Mujer,45-59,10453.0,848323652510000.0,124227634749000.0,Vivienda,Coyoacán
+37,2015.0,3.0,Pobreza moderada,Mujer,60 y mas,8485.0,699366073513000.0,997633926487000.0,Vivienda,Coyoacán
+38,2015.0,3.0,Satisfaccion mínima,Hombre,0-11,4723.0,375234027011000.0,569365972989000.0,Vivienda,Coyoacán
+39,2015.0,3.0,Satisfaccion mínima,Hombre,30-44,7904.0,668855955078000.0,911944044922000.0,Vivienda,Coyoacán
+40,2015.0,3.0,Satisfaccion mínima,Hombre,45-59,6208.0,517771844491000.0,723828155509000.0,Vivienda,Coyoacán
+41,2015.0,3.0,Satisfaccion mínima,Hombre,60 y mas,4567.0,37677910585400.0,53662089414600.0,Vivienda,Coyoacán
+42,2015.0,3.0,Satisfaccion mínima,Hombre,No especificado,91.0,-525705488981000.0,182525705489000.0,Vivienda,Coyoacán
+43,2015.0,3.0,Satisfaccion mínima,Mujer,No especificado,58.0,-142545526991000.0,130254552699000.0,Vivienda,Coyoacán
+44,2015.0,3.0,Estrato medio,Hombre,30-44,20740.0,18425779813300.0,23054220186700.0,Vivienda,Coyoacán
+45,2015.0,3.0,Estrato medio,Hombre,45-59,17815.0,152548773365000.0,203751226635000.0,Vivienda,Coyoacán
+46,2015.0,3.0,Estrato medio,Hombre,60 y mas,14410.0,120027877555000.0,168172122445000.0,Vivienda,Coyoacán
+47,2015.0,3.0,Estrato medio,Mujer,45-59,23260.0,201454592818000.0,263745407182000.0,Vivienda,Coyoacán
+48,2015.0,3.0,Estrato alto,Hombre,30-44,11790.0,925646464500000.0,143235353550000.0,Vivienda,Coyoacán
+49,2015.0,3.0,Estrato alto,Mujer,60 y mas,22703.0,190726575936000.0,263333424064000.0,Vivienda,Coyoacán
+50,2015.0,4.0,Pobreza muy alta,Hombre,12-29,6772.0,498383800901000.0,856016199099000.0,Vivienda,Cuajimalpa de Morelos
+51,2015.0,4.0,Pobreza muy alta,Hombre,30-44,3966.0,292778011883000.0,500421988117000.0,Vivienda,Cuajimalpa de Morelos
+52,2015.0,4.0,Pobreza muy alta,Hombre,60 y mas,1004.0,554480479422000.0,145351952058000.0,Vivienda,Cuajimalpa de Morelos
+53,2015.0,4.0,Pobreza muy alta,Mujer,0-11,5133.0,350033566334000.0,676566433666000.0,Vivienda,Cuajimalpa de Morelos
+54,2015.0,4.0,Pobreza muy alta,Mujer,30-44,4273.0,320706620722000.0,533893379278000.0,Vivienda,Cuajimalpa de Morelos
+55,2015.0,4.0,Pobreza alta,Hombre,0-11,2560.0,153784084039000.0,358215915961000.0,Vivienda,Cuajimalpa de Morelos
+56,2015.0,4.0,Pobreza alta,Hombre,45-59,1484.0,10606048941600.0,19073951058400.0,Vivienda,Cuajimalpa de Morelos
+57,2015.0,4.0,Pobreza alta,Hombre,60 y mas,565.0,326448822850000.0,803551177150000.0,Vivienda,Cuajimalpa de Morelos
+58,2015.0,4.0,Pobreza alta,Mujer,60 y mas,658.0,43499080744800.0,88100919255200.0,Vivienda,Cuajimalpa de Morelos
+59,2015.0,4.0,Pobreza moderada,Hombre,0-11,3684.0,289153341037000.0,447646658963000.0,Vivienda,Cuajimalpa de Morelos
+60,2015.0,4.0,Pobreza moderada,Hombre,12-29,6134.0,451139790219000.0,775660209781000.0,Vivienda,Cuajimalpa de Morelos
+61,2015.0,4.0,Pobreza moderada,Hombre,45-59,2537.0,177186616986000.0,330213383014000.0,Vivienda,Cuajimalpa de Morelos
+62,2015.0,4.0,Pobreza moderada,Mujer,0-11,3487.0,26704096979900.0,43035903020100.0,Vivienda,Cuajimalpa de Morelos
+63,2015.0,4.0,Pobreza moderada,Mujer,60 y mas,1621.0,11028825869500.0,21391174130500.0,Vivienda,Cuajimalpa de Morelos
+64,2015.0,4.0,Satisfaccion mínima,Hombre,0-11,1647.0,113326503955000.0,216073496045000.0,Vivienda,Cuajimalpa de Morelos
+65,2015.0,4.0,Satisfaccion mínima,Mujer,12-29,2453.0,164578962923000.0,326021037077000.0,Vivienda,Cuajimalpa de Morelos
+66,2015.0,4.0,Estrato medio,Hombre,45-59,4494.0,313473743807000.0,585326256193000.0,Vivienda,Cuajimalpa de Morelos
+67,2015.0,4.0,Estrato medio,Mujer,0-11,3380.0,216393592095000.0,459606407905000.0,Vivienda,Cuajimalpa de Morelos
+68,2015.0,4.0,Estrato medio,Mujer,12-29,6945.0,467001764631000.0,921998235369000.0,Vivienda,Cuajimalpa de Morelos
+69,2015.0,4.0,Estrato alto,Hombre,45-59,3772.0,211586160462000.0,542813839538000.0,Vivienda,Cuajimalpa de Morelos
+70,2015.0,4.0,Estrato alto,Mujer,12-29,4457.0,230527987770000.0,660872012230000.0,Vivienda,Cuajimalpa de Morelos
+71,2015.0,4.0,Estrato alto,Mujer,30-44,4845.0,272481968737000.0,696518031263000.0,Vivienda,Cuajimalpa de Morelos
+72,2015.0,4.0,Estrato alto,Mujer,45-59,4167.0,261419610628000.0,571980389372000.0,Vivienda,Cuajimalpa de Morelos
+73,2015.0,5.0,Pobreza muy alta,Hombre,0-11,27787.0,230197502201000.0,325542497799000.0,Vivienda,Gustavo A. Madero
+74,2015.0,5.0,Pobreza muy alta,Hombre,45-59,11375.0,935224409216000.0,133977559078000.0,Vivienda,Gustavo A. Madero
+75,2015.0,5.0,Pobreza alta,Hombre,0-11,12874.0,996787154406000.0,157801284559000.0,Vivienda,Gustavo A. Madero
+76,2015.0,5.0,Pobreza alta,Mujer,30-44,15146.0,124389382896000.0,178530617104000.0,Vivienda,Gustavo A. Madero
+77,2015.0,5.0,Pobreza alta,Mujer,45-59,11825.0,955131406811000.0,140986859319000.0,Vivienda,Gustavo A. Madero
+78,2015.0,5.0,Pobreza alta,Mujer,60 y mas,5706.0,45569392284900.0,68550607715100.0,Vivienda,Gustavo A. Madero
+79,2015.0,5.0,Pobreza alta,Mujer,No especificado,41.0,-198542907621000.0,101854290762000.0,Vivienda,Gustavo A. Madero
+80,2015.0,5.0,Pobreza moderada,Hombre,12-29,39595.0,340909419489000.0,450990580511000.0,Vivienda,Gustavo A. Madero
+81,2015.0,5.0,Pobreza moderada,Mujer,45-59,25260.0,217412399671000.0,287787600329000.0,Vivienda,Gustavo A. Madero
+82,2015.0,5.0,Satisfaccion mínima,Hombre,12-29,21570.0,187905618868000.0,243494381132000.0,Vivienda,Gustavo A. Madero
+83,2015.0,5.0,Satisfaccion mínima,Hombre,30-44,15774.0,136998801035000.0,178481198965000.0,Vivienda,Gustavo A. Madero
+84,2015.0,5.0,Satisfaccion mínima,Mujer,12-29,20178.0,171336006576000.0,232223993424000.0,Vivienda,Gustavo A. Madero
+85,2015.0,5.0,Satisfaccion mínima,Mujer,45-59,16225.0,142155033096000.0,182344966904000.0,Vivienda,Gustavo A. Madero
+86,2015.0,5.0,Estrato medio,Hombre,12-29,39195.0,340652486144000.0,443247513856000.0,Vivienda,Gustavo A. Madero
+87,2015.0,5.0,Estrato medio,Hombre,30-44,29138.0,254405117572000.0,328354882428000.0,Vivienda,Gustavo A. Madero
+88,2015.0,5.0,Estrato medio,Mujer,0-11,14016.0,115405648618000.0,164914351382000.0,Vivienda,Gustavo A. Madero
+89,2015.0,5.0,Estrato medio,Mujer,30-44,33862.0,294381805830000.0,382858194170000.0,Vivienda,Gustavo A. Madero
+90,2015.0,5.0,Estrato medio,Mujer,60 y mas,33480.0,298631128496000.0,370968871504000.0,Vivienda,Gustavo A. Madero
+91,2015.0,5.0,Estrato medio,Mujer,No especificado,18.0,-908395184283000.0,450839518428000.0,Vivienda,Gustavo A. Madero
+92,2015.0,5.0,Estrato alto,Hombre,12-29,11155.0,887980653442000.0,134301934656000.0,Vivienda,Gustavo A. Madero
+93,2015.0,5.0,Estrato alto,Hombre,60 y mas,17478.0,148999045947000.0,200560954053000.0,Vivienda,Gustavo A. Madero
+94,2015.0,5.0,Estrato alto,Mujer,60 y mas,25177.0,220497484467000.0,283042515533000.0,Vivienda,Gustavo A. Madero
+95,2015.0,5.0,Estrato alto,Mujer,No especificado,137.0,-365449704983000.0,310544970498000.0,Vivienda,Gustavo A. Madero
+96,2015.0,6.0,Pobreza muy alta,Hombre,12-29,7229.0,479046293320000.0,966753706680000.0,Vivienda,Iztacalco
+97,2015.0,6.0,Pobreza alta,Mujer,0-11,3894.0,247867650217000.0,530932349783000.0,Vivienda,Iztacalco
+98,2015.0,6.0,Pobreza alta,Mujer,30-44,3987.0,267066195101000.0,530333804899000.0,Vivienda,Iztacalco
+99,2015.0,6.0,Pobreza moderada,Hombre,0-11,7508.0,54548867285000.0,95611132715000.0,Vivienda,Iztacalco
+100,2015.0,6.0,Pobreza moderada,Hombre,12-29,13984.0,109109094811000.0,170570905189000.0,Vivienda,Iztacalco
+101,2015.0,6.0,Pobreza moderada,Hombre,60 y mas,4193.0,299946566161000.0,538653433839000.0,Vivienda,Iztacalco
+102,2015.0,6.0,Pobreza moderada,Mujer,0-11,7858.0,577995006899000.0,993604993101000.0,Vivienda,Iztacalco
+103,2015.0,6.0,Pobreza moderada,Mujer,30-44,11254.0,885172437131000.0,136562756287000.0,Vivienda,Iztacalco
+104,2015.0,6.0,Pobreza moderada,Mujer,45-59,9858.0,7622434401400.0,12093565598600.0,Vivienda,Iztacalco
+105,2015.0,6.0,Satisfaccion mínima,Mujer,0-11,4118.0,288359705269000.0,535240294731000.0,Vivienda,Iztacalco
+106,2015.0,6.0,Satisfaccion mínima,Mujer,30-44,8219.0,644329576108000.0,999470423892000.0,Vivienda,Iztacalco
+107,2015.0,6.0,Satisfaccion mínima,Mujer,45-59,7101.0,557286989939000.0,862913010061000.0,Vivienda,Iztacalco
+108,2015.0,6.0,Satisfaccion mínima,Mujer,60 y mas,4109.0,293560406226000.0,528239593774000.0,Vivienda,Iztacalco
+109,2015.0,6.0,Estrato medio,Hombre,12-29,13675.0,1167966291750.0,1567033708250.0,Vivienda,Iztacalco
+110,2015.0,6.0,Estrato medio,Hombre,45-59,10712.0,889935016219000.0,125246498378000.0,Vivienda,Iztacalco
+111,2015.0,6.0,Estrato medio,Hombre,No especificado,31.0,-397078312766000.0,101707831277000.0,Vivienda,Iztacalco
+112,2015.0,6.0,Estrato medio,Mujer,45-59,13849.0,116993549966000.0,159986450034000.0,Vivienda,Iztacalco
+113,2015.0,6.0,Estrato alto,Hombre,30-44,5132.0,372986598479000.0,653413401521000.0,Vivienda,Iztacalco
+114,2015.0,6.0,Estrato alto,Hombre,60 y mas,4976.0,351498369138000.0,643701630862000.0,Vivienda,Iztacalco
+115,2015.0,6.0,Estrato alto,Mujer,0-11,530.0,106033182147000.0,953966817853000.0,Vivienda,Iztacalco
+116,2015.0,6.0,Estrato alto,Mujer,12-29,3181.0,209757483123000.0,426442516877000.0,Vivienda,Iztacalco
+117,2015.0,6.0,Estrato alto,Mujer,No especificado,20.0,-401761701185000.0,801761701185000.0,Vivienda,Iztacalco
+118,2015.0,7.0,Pobreza muy alta,Hombre,45-59,18729.0,16149432810900.0,21308567189100.0,Vivienda,Iztapalapa
+119,2015.0,7.0,Pobreza muy alta,Mujer,45-59,20677.0,175326998633000.0,238213001367000.0,Vivienda,Iztapalapa
+120,2015.0,7.0,Pobreza moderada,Hombre,0-11,42264.0,383159215812000.0,462120784188000.0,Vivienda,Iztapalapa
+121,2015.0,7.0,Pobreza moderada,Hombre,30-44,51896.0,477289275609000.0,560630724391000.0,Vivienda,Iztapalapa
+122,2015.0,7.0,Pobreza moderada,Hombre,45-59,37514.0,34387136383700.0,40640863616300.0,Vivienda,Iztapalapa
+123,2015.0,7.0,Pobreza moderada,Hombre,60 y mas,23785.0,212501188817000.0,263198811183000.0,Vivienda,Iztapalapa
+124,2015.0,7.0,Pobreza moderada,Mujer,0-11,39736.0,360379551125000.0,434340448875000.0,Vivienda,Iztapalapa
+125,2015.0,7.0,Pobreza moderada,Mujer,45-59,43656.0,396475322647000.0,476644677353000.0,Vivienda,Iztapalapa
+126,2015.0,7.0,Pobreza moderada,Mujer,60 y mas,28724.0,254161563712000.0,320318436288000.0,Vivienda,Iztapalapa
+127,2015.0,7.0,Satisfaccion mínima,Hombre,30-44,23909.0,212190203057000.0,265989796943000.0,Vivienda,Iztapalapa
+128,2015.0,7.0,Satisfaccion mínima,Mujer,30-44,27692.0,246185966965000.0,307654033035000.0,Vivienda,Iztapalapa
+129,2015.0,7.0,Satisfaccion mínima,Mujer,60 y mas,17106.0,148770837221000.0,193349162779000.0,Vivienda,Iztapalapa
+130,2015.0,7.0,Satisfaccion mínima,Mujer,No especificado,104.0,-675599829085000.0,275559982909000.0,Vivienda,Iztapalapa
+131,2015.0,7.0,Estrato medio,Hombre,0-11,22276.0,190459947924000.0,255060052076000.0,Vivienda,Iztapalapa
+132,2015.0,7.0,Estrato medio,Hombre,45-59,35941.0,31758956120100.0,40123043879900.0,Vivienda,Iztapalapa
+133,2015.0,7.0,Estrato medio,Mujer,30-44,46678.0,419175768573000.0,514384231427000.0,Vivienda,Iztapalapa
+134,2015.0,7.0,Estrato medio,Mujer,60 y mas,34321.0,302730711120000.0,383689288880000.0,Vivienda,Iztapalapa
+135,2015.0,7.0,Estrato alto,Hombre,60 y mas,14855.0,1268649362610.0,1702350637390.0,Vivienda,Iztapalapa
+136,2015.0,7.0,Estrato alto,Mujer,45-59,17463.0,148506751024000.0,200753248976000.0,Vivienda,Iztapalapa
+137,2015.0,8.0,Pobreza muy alta,Hombre,12-29,9404.0,705820543125000.0,117497945688000.0,Vivienda,La Magdalena Contreras
+138,2015.0,8.0,Pobreza muy alta,Hombre,60 y mas,1859.0,126747933659000.0,245052066341000.0,Vivienda,La Magdalena Contreras
+139,2015.0,8.0,Pobreza muy alta,Mujer,12-29,11030.0,834193136618000.0,137180686338000.0,Vivienda,La Magdalena Contreras
+140,2015.0,8.0,Pobreza muy alta,Mujer,30-44,7820.0,594180011449000.0,969819988551000.0,Vivienda,La Magdalena Contreras
+141,2015.0,8.0,Pobreza alta,Hombre,30-44,3304.0,234757958180000.0,426042041820000.0,Vivienda,La Magdalena Contreras
+142,2015.0,8.0,Pobreza alta,Hombre,45-59,2078.0,14637881298400.0,26922118701600.0,Vivienda,La Magdalena Contreras
+143,2015.0,8.0,Pobreza alta,Mujer,0-11,2578.0,174667107503000.0,340932892497000.0,Vivienda,La Magdalena Contreras
+144,2015.0,8.0,Pobreza alta,Mujer,12-29,4708.0,341953122967000.0,599646877033000.0,Vivienda,La Magdalena Contreras
+145,2015.0,8.0,Pobreza moderada,Hombre,0-11,4883.0,368335968610000.0,608264031390000.0,Vivienda,La Magdalena Contreras
+146,2015.0,8.0,Pobreza moderada,Hombre,60 y mas,3224.0,24580522444000.0,39899477556000.0,Vivienda,La Magdalena Contreras
+147,2015.0,8.0,Pobreza moderada,Hombre,No especificado,21.0,-137143860352000.0,557143860352000.0,Vivienda,La Magdalena Contreras
+148,2015.0,8.0,Pobreza moderada,Mujer,0-11,4531.0,334724025154000.0,571475974846000.0,Vivienda,La Magdalena Contreras
+149,2015.0,8.0,Pobreza moderada,Mujer,30-44,8009.0,602363330531000.0,999436669469000.0,Vivienda,La Magdalena Contreras
+150,2015.0,8.0,Pobreza moderada,Mujer,45-59,5186.0,407799100539000.0,629400899461000.0,Vivienda,La Magdalena Contreras
+151,2015.0,8.0,Pobreza moderada,Mujer,60 y mas,3998.0,318413634538000.0,481186365462000.0,Vivienda,La Magdalena Contreras
+152,2015.0,8.0,Pobreza moderada,Mujer,No especificado,21.0,-161769100598000.0,581769100598000.0,Vivienda,La Magdalena Contreras
+153,2015.0,8.0,Satisfaccion mínima,Hombre,0-11,1703.0,123761302027000.0,216838697973000.0,Vivienda,La Magdalena Contreras
+154,2015.0,8.0,Satisfaccion mínima,Hombre,30-44,2607.0,202110655645000.0,319289344355000.0,Vivienda,La Magdalena Contreras
+155,2015.0,8.0,Estrato medio,Hombre,30-44,4378.0,338230989408000.0,537369010592000.0,Vivienda,La Magdalena Contreras
+156,2015.0,8.0,Estrato medio,Hombre,45-59,4491.0,358558679227000.0,539641320773000.0,Vivienda,La Magdalena Contreras
+157,2015.0,8.0,Estrato medio,Mujer,30-44,5270.0,411546891226000.0,642453108774000.0,Vivienda,La Magdalena Contreras
+158,2015.0,8.0,Estrato alto,Hombre,12-29,2293.0,15934455728500.0,29925544271500.0,Vivienda,La Magdalena Contreras
+159,2015.0,8.0,Estrato alto,Hombre,45-59,2578.0,181143378406000.0,334456621594000.0,Vivienda,La Magdalena Contreras
+160,2015.0,8.0,Estrato alto,Hombre,60 y mas,2933.0,190647680946000.0,395952319054000.0,Vivienda,La Magdalena Contreras
+161,2015.0,8.0,Estrato alto,Mujer,12-29,1943.0,136375570383000.0,252224429617000.0,Vivienda,La Magdalena Contreras
+162,2015.0,8.0,Estrato alto,Mujer,45-59,3100.0,234517034734000.0,385482965266000.0,Vivienda,La Magdalena Contreras
+163,2015.0,8.0,Estrato alto,Mujer,60 y mas,4120.0,318612617521000.0,505387382479000.0,Vivienda,La Magdalena Contreras
+164,2015.0,9.0,Pobreza muy alta,Hombre,No especificado,9.0,-940172256688000.0,274017225669000.0,Vivienda,Milpa Alta
+165,2015.0,9.0,Pobreza muy alta,Mujer,30-44,5431.0,380978732183000.0,705221267817000.0,Vivienda,Milpa Alta
+166,2015.0,9.0,Pobreza muy alta,Mujer,60 y mas,1112.0,72530904806100.0,149869095194000.0,Vivienda,Milpa Alta
+167,2015.0,9.0,Pobreza alta,Hombre,12-29,3592.0,235263419755000.0,483136580245000.0,Vivienda,Milpa Alta
+168,2015.0,9.0,Pobreza alta,Hombre,30-44,2157.0,135541136723000.0,295858863277000.0,Vivienda,Milpa Alta
+169,2015.0,9.0,Pobreza alta,Hombre,60 y mas,710.0,481754542332000.0,938245457668000.0,Vivienda,Milpa Alta
+170,2015.0,9.0,Pobreza moderada,Hombre,12-29,5725.0,393655271306000.0,751344728694000.0,Vivienda,Milpa Alta
+171,2015.0,9.0,Pobreza moderada,Hombre,45-59,2711.0,172762544962000.0,369437455038000.0,Vivienda,Milpa Alta
+172,2015.0,9.0,Pobreza moderada,Hombre,60 y mas,1406.0,965557256191000.0,184644274381000.0,Vivienda,Milpa Alta
+173,2015.0,9.0,Pobreza moderada,Mujer,12-29,5830.0,393084083820000.0,772915916180000.0,Vivienda,Milpa Alta
+174,2015.0,9.0,Satisfaccion mínima,Hombre,12-29,2009.0,113377698759000.0,288422301241000.0,Vivienda,Milpa Alta
+175,2015.0,9.0,Satisfaccion mínima,Hombre,45-59,1234.0,862628581666000.0,160537141833000.0,Vivienda,Milpa Alta
+176,2015.0,9.0,Satisfaccion mínima,Mujer,0-11,843.0,501234824039000.0,118476517596000.0,Vivienda,Milpa Alta
+177,2015.0,9.0,Satisfaccion mínima,Mujer,45-59,1525.0,981158021055000.0,206884197895000.0,Vivienda,Milpa Alta
+178,2015.0,9.0,Satisfaccion mínima,Mujer,60 y mas,881.0,551257624495000.0,121074237551000.0,Vivienda,Milpa Alta
+179,2015.0,9.0,Estrato medio,Hombre,12-29,2901.0,168911472146000.0,411288527854000.0,Vivienda,Milpa Alta
+180,2015.0,9.0,Estrato medio,Hombre,30-44,1722.0,109502810863000.0,234897189137000.0,Vivienda,Milpa Alta
+181,2015.0,9.0,Estrato medio,Mujer,0-11,1076.0,607679085655000.0,154432091434000.0,Vivienda,Milpa Alta
+182,2015.0,9.0,Estrato alto,Hombre,0-11,135.0,51482959186900.0,218517040813000.0,Vivienda,Milpa Alta
+183,2015.0,9.0,Estrato alto,Mujer,0-11,214.0,107685050289000.0,320314949711000.0,Vivienda,Milpa Alta
+184,2015.0,9.0,Estrato alto,Mujer,30-44,488.0,262726295120000.0,713273704880000.0,Vivienda,Milpa Alta
+185,2015.0,10.0,Pobreza muy alta,Hombre,12-29,24129.0,188787693334000.0,293792306666000.0,Vivienda,Álvaro Obregón
+186,2015.0,10.0,Pobreza muy alta,Hombre,30-44,15514.0,120457144768000.0,189822855232000.0,Vivienda,Álvaro Obregón
+187,2015.0,10.0,Pobreza muy alta,Hombre,60 y mas,3875.0,26946460821000.0,50553539179000.0,Vivienda,Álvaro Obregón
+188,2015.0,10.0,Pobreza muy alta,Hombre,No especificado,19.0,-121137665113000.0,501137665113000.0,Vivienda,Álvaro Obregón
+189,2015.0,10.0,Pobreza muy alta,Mujer,12-29,22727.0,18537541189300.0,26916458810700.0,Vivienda,Álvaro Obregón
+190,2015.0,10.0,Pobreza muy alta,Mujer,No especificado,33.0,-151183168122000.0,811183168122000.0,Vivienda,Álvaro Obregón
+191,2015.0,10.0,Pobreza alta,Hombre,0-11,7439.0,584456540229000.0,903343459771000.0,Vivienda,Álvaro Obregón
+192,2015.0,10.0,Pobreza alta,Mujer,0-11,7458.0,583168605916000.0,908431394084000.0,Vivienda,Álvaro Obregón
+193,2015.0,10.0,Pobreza alta,Mujer,12-29,12576.0,100530879822000.0,150989120178000.0,Vivienda,Álvaro Obregón
+194,2015.0,10.0,Pobreza moderada,Hombre,0-11,14032.0,116794046243000.0,163845953757000.0,Vivienda,Álvaro Obregón
+195,2015.0,10.0,Pobreza moderada,Hombre,30-44,20159.0,166744190577000.0,236435809423000.0,Vivienda,Álvaro Obregón
+196,2015.0,10.0,Pobreza moderada,Hombre,45-59,12933.0,110819001890000.0,147840998110000.0,Vivienda,Álvaro Obregón
+197,2015.0,10.0,Pobreza moderada,Hombre,60 y mas,9203.0,736787917080000.0,110381208292000.0,Vivienda,Álvaro Obregón
+198,2015.0,10.0,Pobreza moderada,Mujer,12-29,23963.0,205123238934000.0,274136761066000.0,Vivienda,Álvaro Obregón
+199,2015.0,10.0,Pobreza moderada,Mujer,30-44,21465.0,17860623785600.0,25069376214400.0,Vivienda,Álvaro Obregón
+200,2015.0,10.0,Satisfaccion mínima,Hombre,45-59,8281.0,702589837135000.0,953610162865000.0,Vivienda,Álvaro Obregón
+201,2015.0,10.0,Satisfaccion mínima,Hombre,60 y mas,5668.0,461889908596000.0,671710091404000.0,Vivienda,Álvaro Obregón
+202,2015.0,10.0,Satisfaccion mínima,Hombre,No especificado,17.0,-202628357627000.0,542628357627000.0,Vivienda,Álvaro Obregón
+203,2015.0,10.0,Satisfaccion mínima,Mujer,45-59,9965.0,857161457057000.0,113583854294000.0,Vivienda,Álvaro Obregón
+204,2015.0,10.0,Satisfaccion mínima,Mujer,60 y mas,6794.0,544594565104000.0,814205434896000.0,Vivienda,Álvaro Obregón
+205,2015.0,10.0,Estrato medio,Hombre,30-44,19015.0,158181240961000.0,222118759039000.0,Vivienda,Álvaro Obregón
+206,2015.0,10.0,Estrato medio,Hombre,45-59,15733.0,131355370725000.0,183304629275000.0,Vivienda,Álvaro Obregón
+207,2015.0,10.0,Estrato alto,Hombre,30-44,12267.0,877881837428000.0,157551816257000.0,Vivienda,Álvaro Obregón
+208,2015.0,10.0,Estrato alto,Hombre,45-59,9958.0,737157534139000.0,125444246586000.0,Vivienda,Álvaro Obregón
+209,2015.0,10.0,Estrato alto,Mujer,0-11,2480.0,120588254924000.0,375411745076000.0,Vivienda,Álvaro Obregón
+210,2015.0,10.0,Estrato alto,Mujer,45-59,11333.0,883359701480000.0,138324029852000.0,Vivienda,Álvaro Obregón
+211,2015.0,10.0,Estrato alto,Mujer,60 y mas,14927.0,122120358564000.0,176419641436000.0,Vivienda,Álvaro Obregón
+212,2015.0,11.0,Pobreza muy alta,Hombre,30-44,7484.0,613068155092000.0,883731844908000.0,Vivienda,Tláhuac
+213,2015.0,11.0,Pobreza muy alta,Hombre,45-59,3803.0,277155491024000.0,483444508976000.0,Vivienda,Tláhuac
+214,2015.0,11.0,Pobreza muy alta,Hombre,60 y mas,1561.0,956727866332000.0,216527213367000.0,Vivienda,Tláhuac
+215,2015.0,11.0,Pobreza muy alta,Mujer,12-29,13257.0,106171402024000.0,158968597976000.0,Vivienda,Tláhuac
+216,2015.0,11.0,Pobreza muy alta,Mujer,30-44,8247.0,682153050029000.0,967246949971000.0,Vivienda,Tláhuac
+217,2015.0,11.0,Pobreza muy alta,Mujer,45-59,4425.0,305355637597000.0,579644362403000.0,Vivienda,Tláhuac
+218,2015.0,11.0,Pobreza muy alta,Mujer,60 y mas,2224.0,143258185218000.0,301541814782000.0,Vivienda,Tláhuac
+219,2015.0,11.0,Pobreza muy alta,Mujer,No especificado,26.0,-183559935845000.0,703559935845000.0,Vivienda,Tláhuac
+220,2015.0,11.0,Pobreza alta,Hombre,0-11,5372.0,387434021050000.0,686965978950000.0,Vivienda,Tláhuac
+221,2015.0,11.0,Pobreza alta,Hombre,45-59,2796.0,204633806671000.0,354566193329000.0,Vivienda,Tláhuac
+222,2015.0,11.0,Pobreza alta,Hombre,60 y mas,1715.0,124466116364000.0,218533883636000.0,Vivienda,Tláhuac
+223,2015.0,11.0,Pobreza alta,Mujer,0-11,4412.0,324819053956000.0,557580946044000.0,Vivienda,Tláhuac
+224,2015.0,11.0,Pobreza moderada,Hombre,0-11,8506.0,672833946077000.0,102836605392000.0,Vivienda,Tláhuac
+225,2015.0,11.0,Pobreza moderada,Mujer,0-11,9616.0,767256476613000.0,115594352339000.0,Vivienda,Tláhuac
+226,2015.0,11.0,Pobreza moderada,Mujer,12-29,16649.0,140996535496000.0,191983464504000.0,Vivienda,Tláhuac
+227,2015.0,11.0,Pobreza moderada,Mujer,30-44,12899.0,109718819803000.0,148261180197000.0,Vivienda,Tláhuac
+228,2015.0,11.0,Pobreza moderada,Mujer,60 y mas,5547.0,414431411038000.0,694968588962000.0,Vivienda,Tláhuac
+229,2015.0,11.0,Satisfaccion mínima,Hombre,No especificado,28.0,-141416987772000.0,701416987772000.0,Vivienda,Tláhuac
+230,2015.0,11.0,Satisfaccion mínima,Mujer,30-44,6593.0,539037663103000.0,779562336897000.0,Vivienda,Tláhuac
+231,2015.0,11.0,Estrato medio,Hombre,30-44,7606.0,612610466901000.0,908589533099000.0,Vivienda,Tláhuac
+232,2015.0,11.0,Estrato medio,Mujer,12-29,10557.0,859497421609000.0,125190257839000.0,Vivienda,Tláhuac
+233,2015.0,11.0,Estrato medio,Mujer,30-44,9024.0,750799331494000.0,105400066851000.0,Vivienda,Tláhuac
+234,2015.0,11.0,Estrato alto,Hombre,30-44,2051.0,149486043357000.0,260713956643000.0,Vivienda,Tláhuac
+235,2015.0,12.0,Pobreza muy alta,Mujer,0-11,20195.0,15751589153000.0,24638410847000.0,Vivienda,Tlalpan
+236,2015.0,12.0,Pobreza alta,Hombre,12-29,9720.0,819356438330000.0,112464356167000.0,Vivienda,Tlalpan
+237,2015.0,12.0,Pobreza alta,Hombre,30-44,7314.0,607574419550000.0,855225580450000.0,Vivienda,Tlalpan
+238,2015.0,12.0,Pobreza alta,Hombre,No especificado,18.0,-389603775163000.0,749603775163000.0,Vivienda,Tlalpan
+239,2015.0,12.0,Pobreza alta,Mujer,12-29,10492.0,898494521684000.0,119990547832000.0,Vivienda,Tlalpan
+240,2015.0,12.0,Pobreza alta,Mujer,30-44,8357.0,702569514839000.0,968830485161000.0,Vivienda,Tlalpan
+241,2015.0,12.0,Pobreza moderada,Hombre,0-11,12277.0,104054157709000.0,141485842291000.0,Vivienda,Tlalpan
+242,2015.0,12.0,Pobreza moderada,Hombre,60 y mas,7256.0,603842756661000.0,847357243339000.0,Vivienda,Tlalpan
+243,2015.0,12.0,Pobreza moderada,Mujer,30-44,18441.0,160872242848000.0,207947757152000.0,Vivienda,Tlalpan
+244,2015.0,12.0,Pobreza moderada,Mujer,No especificado,27.0,-310006392698000.0,850006392698000.0,Vivienda,Tlalpan
+245,2015.0,12.0,Satisfaccion mínima,Hombre,0-11,5911.0,480883610190000.0,701316389810000.0,Vivienda,Tlalpan
+246,2015.0,12.0,Satisfaccion mínima,Hombre,30-44,8771.0,728604719773000.0,102559528023000.0,Vivienda,Tlalpan
+247,2015.0,12.0,Satisfaccion mínima,Hombre,60 y mas,4196.0,342399530784000.0,496800469216000.0,Vivienda,Tlalpan
+248,2015.0,12.0,Satisfaccion mínima,Hombre,No especificado,22.0,-303046377870000.0,743046377870000.0,Vivienda,Tlalpan
+249,2015.0,12.0,Satisfaccion mínima,Mujer,30-44,10256.0,850391604484000.0,120080839552000.0,Vivienda,Tlalpan
+250,2015.0,12.0,Satisfaccion mínima,Mujer,45-59,7944.0,649018856570000.0,939781143430000.0,Vivienda,Tlalpan
+251,2015.0,12.0,Satisfaccion mínima,Mujer,60 y mas,5770.0,474064142044000.0,679935857956000.0,Vivienda,Tlalpan
+252,2015.0,12.0,Estrato medio,Hombre,0-11,8333.0,684838642643000.0,981761357357000.0,Vivienda,Tlalpan
+253,2015.0,12.0,Estrato medio,Hombre,12-29,20943.0,17334978747900.0,24551021252100.0,Vivienda,Tlalpan
+254,2015.0,12.0,Estrato medio,Hombre,60 y mas,10415.0,871800764930000.0,121119923507000.0,Vivienda,Tlalpan
+255,2015.0,12.0,Estrato medio,Mujer,45-59,18712.0,158129385234000.0,216110614766000.0,Vivienda,Tlalpan
+256,2015.0,12.0,Estrato medio,Mujer,60 y mas,13657.0,1145686189210.0,1585713810790.0,Vivienda,Tlalpan
+257,2015.0,12.0,Estrato alto,Hombre,0-11,2446.0,163574961506000.0,325625038494000.0,Vivienda,Tlalpan
+258,2015.0,13.0,Pobreza muy alta,Hombre,12-29,17615.0,130303287912000.0,221996712088000.0,Vivienda,Xochimilco
+259,2015.0,13.0,Pobreza muy alta,Mujer,60 y mas,2930.0,210169480161000.0,375830519839000.0,Vivienda,Xochimilco
+260,2015.0,13.0,Pobreza alta,Hombre,30-44,5640.0,384018434960000.0,743981565040000.0,Vivienda,Xochimilco
+261,2015.0,13.0,Pobreza alta,Hombre,60 y mas,1974.0,139111002886000.0,255688997114000.0,Vivienda,Xochimilco
+262,2015.0,13.0,Pobreza alta,Mujer,0-11,5774.0,314744767489000.0,840055232511000.0,Vivienda,Xochimilco
+263,2015.0,13.0,Pobreza alta,Mujer,12-29,8206.0,566400975750000.0,10747990242500.0,Vivienda,Xochimilco
+264,2015.0,13.0,Pobreza alta,Mujer,30-44,6357.0,44493184056000.0,82646815944000.0,Vivienda,Xochimilco
+265,2015.0,13.0,Pobreza alta,Mujer,45-59,4657.0,316433255772000.0,614966744228000.0,Vivienda,Xochimilco
+266,2015.0,13.0,Pobreza moderada,Hombre,30-44,11453.0,843536364949000.0,144706363505000.0,Vivienda,Xochimilco
+267,2015.0,13.0,Pobreza moderada,Hombre,45-59,8185.0,581689018633000.0,105531098137000.0,Vivienda,Xochimilco
+268,2015.0,13.0,Pobreza moderada,Hombre,60 y mas,5048.0,344552235326000.0,665047764674000.0,Vivienda,Xochimilco
+269,2015.0,13.0,Pobreza moderada,Hombre,No especificado,102.0,-348104427474000.0,238810442747000.0,Vivienda,Xochimilco
+270,2015.0,13.0,Pobreza moderada,Mujer,0-11,9029.0,626021341511000.0,117977865849000.0,Vivienda,Xochimilco
+271,2015.0,13.0,Satisfaccion mínima,Mujer,45-59,4293.0,304448004544000.0,554151995456000.0,Vivienda,Xochimilco
+272,2015.0,13.0,Satisfaccion mínima,Mujer,60 y mas,2588.0,167745930859000.0,349854069141000.0,Vivienda,Xochimilco
+273,2015.0,13.0,Estrato medio,Hombre,30-44,8716.0,607916207634000.0,113528379237000.0,Vivienda,Xochimilco
+274,2015.0,13.0,Estrato medio,Hombre,45-59,6432.0,493960186566000.0,792439813434000.0,Vivienda,Xochimilco
+275,2015.0,13.0,Estrato medio,Hombre,60 y mas,5909.0,442910528318000.0,738889471682000.0,Vivienda,Xochimilco
+276,2015.0,13.0,Estrato medio,Mujer,12-29,9279.0,68743748882300.0,116836251118000.0,Vivienda,Xochimilco
+277,2015.0,13.0,Estrato medio,Mujer,No especificado,16.0,-16277786821800.0,48277786821800.0,Vivienda,Xochimilco
+278,2015.0,13.0,Estrato alto,Hombre,12-29,3504.0,228503321893000.0,472296678107000.0,Vivienda,Xochimilco
+279,2015.0,13.0,Estrato alto,Hombre,30-44,2575.0,170440689788000.0,344559310212000.0,Vivienda,Xochimilco
+280,2015.0,13.0,Estrato alto,Mujer,60 y mas,4586.0,299129216950000.0,618070783050000.0,Vivienda,Xochimilco
+281,2015.0,14.0,Pobreza muy alta,Hombre,0-11,2796.0,138862155602000.0,420337844398000.0,Vivienda,Benito Juárez
+282,2015.0,14.0,Pobreza muy alta,Hombre,12-29,2741.0,128339480369000.0,419860519631000.0,Vivienda,Benito Juárez
+283,2015.0,14.0,Pobreza muy alta,Hombre,30-44,2650.0,826411646005000.0,44735883540000.0,Vivienda,Benito Juárez
+284,2015.0,14.0,Pobreza muy alta,Hombre,60 y mas,1037.0,362997883933000.0,171100211607000.0,Vivienda,Benito Juárez
+285,2015.0,14.0,Pobreza muy alta,Mujer,30-44,3066.0,122826624891000.0,490373375109000.0,Vivienda,Benito Juárez
+286,2015.0,14.0,Pobreza alta,Hombre,0-11,2533.0,142630678885000.0,363969321115000.0,Vivienda,Benito Juárez
+287,2015.0,14.0,Pobreza alta,Mujer,30-44,2160.0,144362132414000.0,287637867586000.0,Vivienda,Benito Juárez
+288,2015.0,14.0,Pobreza alta,Mujer,45-59,1992.0,106540242166000.0,291859757834000.0,Vivienda,Benito Juárez
+289,2015.0,14.0,Pobreza moderada,Mujer,60 y mas,4811.0,33139290256100.0,63080709743900.0,Vivienda,Benito Juárez
+290,2015.0,14.0,Satisfaccion mínima,Hombre,0-11,3848.0,274466697672000.0,495133302328000.0,Vivienda,Benito Juárez
+291,2015.0,14.0,Satisfaccion mínima,Hombre,45-59,5206.0,318760950233000.0,722439049767000.0,Vivienda,Benito Juárez
+292,2015.0,14.0,Satisfaccion mínima,Hombre,60 y mas,3286.0,235670370200000.0,421529629800000.0,Vivienda,Benito Juárez
+293,2015.0,14.0,Satisfaccion mínima,Hombre,No especificado,67.0,-552942034420000.0,189294203442000.0,Vivienda,Benito Juárez
+294,2015.0,14.0,Satisfaccion mínima,Mujer,0-11,3462.0,240823477213000.0,451576522787000.0,Vivienda,Benito Juárez
+295,2015.0,14.0,Satisfaccion mínima,Mujer,12-29,5893.0,411948455914000.0,766651544086000.0,Vivienda,Benito Juárez
+296,2015.0,14.0,Satisfaccion mínima,Mujer,30-44,8125.0,611531393449000.0,101346860655000.0,Vivienda,Benito Juárez
+297,2015.0,14.0,Satisfaccion mínima,Mujer,45-59,5321.0,355432259745000.0,708767740255000.0,Vivienda,Benito Juárez
+298,2015.0,14.0,Estrato medio,Hombre,0-11,7702.0,622992908209000.0,917407091791000.0,Vivienda,Benito Juárez
+299,2015.0,14.0,Estrato medio,Mujer,60 y mas,15575.0,129136439429000.0,182363560571000.0,Vivienda,Benito Juárez
+300,2015.0,14.0,Estrato alto,Hombre,0-11,1921.0,102962047368000.0,281237952632000.0,Vivienda,Benito Juárez
+301,2015.0,14.0,Estrato alto,Hombre,60 y mas,12265.0,101033610920000.0,144266389080000.0,Vivienda,Benito Juárez
+302,2015.0,14.0,Estrato alto,Hombre,No especificado,41.0,-238861384900000.0,105886138490000.0,Vivienda,Benito Juárez
+303,2015.0,14.0,Estrato alto,Mujer,0-11,1670.0,781198724956000.0,255880127504000.0,Vivienda,Benito Juárez
+304,2015.0,14.0,Estrato alto,Mujer,45-59,11918.0,994680298329000.0,138891970167000.0,Vivienda,Benito Juárez
+305,2015.0,15.0,Pobreza muy alta,Hombre,0-11,7435.0,506936539518000.0,980063460482000.0,Vivienda,Cuauhtémoc
+306,2015.0,15.0,Pobreza muy alta,Mujer,0-11,7025.0,489762453263000.0,915237546737000.0,Vivienda,Cuauhtémoc
+307,2015.0,15.0,Pobreza muy alta,Mujer,12-29,10331.0,755862130136000.0,131033786986000.0,Vivienda,Cuauhtémoc
+308,2015.0,15.0,Pobreza muy alta,Mujer,45-59,4698.0,343922982419000.0,595677017581000.0,Vivienda,Cuauhtémoc
+309,2015.0,15.0,Pobreza alta,Hombre,12-29,6563.0,519980595138000.0,792619404862000.0,Vivienda,Cuauhtémoc
+310,2015.0,15.0,Pobreza alta,Hombre,45-59,3474.0,231846744805000.0,462953255195000.0,Vivienda,Cuauhtémoc
+311,2015.0,15.0,Pobreza alta,Hombre,60 y mas,1758.0,119560770736000.0,232039229264000.0,Vivienda,Cuauhtémoc
+312,2015.0,15.0,Pobreza alta,Hombre,No especificado,1.0,-105566416154000.0,305566416154000.0,Vivienda,Cuauhtémoc
+313,2015.0,15.0,Pobreza alta,Mujer,60 y mas,2436.0,158294137592000.0,328905862408000.0,Vivienda,Cuauhtémoc
+314,2015.0,15.0,Pobreza moderada,Hombre,60 y mas,5117.0,400856217256000.0,622543782744000.0,Vivienda,Cuauhtémoc
+315,2015.0,15.0,Pobreza moderada,Mujer,0-11,7882.0,618264481470000.0,958135518530000.0,Vivienda,Cuauhtémoc
+316,2015.0,15.0,Pobreza moderada,Mujer,12-29,15879.0,131291850599000.0,186288149401000.0,Vivienda,Cuauhtémoc
+317,2015.0,15.0,Satisfaccion mínima,Hombre,0-11,5613.0,42858003609400.0,69401996390600.0,Vivienda,Cuauhtémoc
+318,2015.0,15.0,Satisfaccion mínima,Hombre,30-44,8598.0,73071826401200.0,98888173598800.0,Vivienda,Cuauhtémoc
+319,2015.0,15.0,Satisfaccion mínima,Hombre,45-59,7349.0,587236168387000.0,882563831613000.0,Vivienda,Cuauhtémoc
+320,2015.0,15.0,Satisfaccion mínima,Hombre,60 y mas,4178.0,307695973534000.0,527904026466000.0,Vivienda,Cuauhtémoc
+321,2015.0,15.0,Satisfaccion mínima,Mujer,12-29,10233.0,847747076534000.0,119885292347000.0,Vivienda,Cuauhtémoc
+322,2015.0,15.0,Estrato medio,Hombre,30-44,19475.0,161372978065000.0,228127021935000.0,Vivienda,Cuauhtémoc
+323,2015.0,15.0,Estrato medio,Hombre,45-59,13946.0,115888461221000.0,163031538779000.0,Vivienda,Cuauhtémoc
+324,2015.0,15.0,Estrato medio,Mujer,30-44,22357.0,182382160199000.0,264757839801000.0,Vivienda,Cuauhtémoc
+325,2015.0,15.0,Estrato medio,Mujer,60 y mas,16541.0,141869809076000.0,188950190924000.0,Vivienda,Cuauhtémoc
+326,2015.0,15.0,Estrato alto,Hombre,12-29,7098.0,503169558471000.0,916430441529000.0,Vivienda,Cuauhtémoc
+327,2015.0,15.0,Estrato alto,Hombre,45-59,9315.0,792449246548000.0,107055075345000.0,Vivienda,Cuauhtémoc
+328,2015.0,15.0,Estrato alto,Hombre,60 y mas,8749.0,700892935041000.0,104890706496000.0,Vivienda,Cuauhtémoc
+329,2015.0,15.0,Estrato alto,Mujer,0-11,773.0,383218796735000.0,116278120326000.0,Vivienda,Cuauhtémoc
+330,2015.0,15.0,Estrato alto,Mujer,45-59,9285.0,720420525293000.0,113657947471000.0,Vivienda,Cuauhtémoc
+331,2015.0,15.0,Estrato alto,Mujer,No especificado,24.0,-232789128087000.0,712789128087000.0,Vivienda,Cuauhtémoc
+332,2015.0,16.0,Pobreza muy alta,Hombre,30-44,3115.0,193242847685000.0,429757152315000.0,Vivienda,Miguel Hidalgo
+333,2015.0,16.0,Pobreza muy alta,Mujer,12-29,4013.0,223487505687000.0,579112494313000.0,Vivienda,Miguel Hidalgo
+334,2015.0,16.0,Pobreza muy alta,Mujer,30-44,3660.0,23847414433600.0,49352585566400.0,Vivienda,Miguel Hidalgo
+335,2015.0,16.0,Pobreza muy alta,Mujer,60 y mas,1373.0,758097951875000.0,198790204812000.0,Vivienda,Miguel Hidalgo
+336,2015.0,16.0,Pobreza alta,Hombre,12-29,3285.0,177213390522000.0,479786609478000.0,Vivienda,Miguel Hidalgo
+337,2015.0,16.0,Pobreza alta,Hombre,30-44,2671.0,164339539721000.0,369860460279000.0,Vivienda,Miguel Hidalgo
+338,2015.0,16.0,Pobreza alta,Hombre,60 y mas,1385.0,755958068280000.0,20140419317200.0,Vivienda,Miguel Hidalgo
+339,2015.0,16.0,Pobreza alta,Mujer,60 y mas,1745.0,897529327441000.0,259247067256000.0,Vivienda,Miguel Hidalgo
+340,2015.0,16.0,Pobreza moderada,Hombre,0-11,4332.0,310808637994000.0,555591362006000.0,Vivienda,Miguel Hidalgo
+341,2015.0,16.0,Pobreza moderada,Hombre,12-29,7600.0,514447224161000.0,100555277584000.0,Vivienda,Miguel Hidalgo
+342,2015.0,16.0,Pobreza moderada,Mujer,45-59,5661.0,382136401464000.0,750063598536000.0,Vivienda,Miguel Hidalgo
+343,2015.0,16.0,Pobreza moderada,Mujer,60 y mas,4524.0,301932406504000.0,602867593496000.0,Vivienda,Miguel Hidalgo
+344,2015.0,16.0,Satisfaccion mínima,Hombre,30-44,5161.0,34068196132300.0,69151803867700.0,Vivienda,Miguel Hidalgo
+345,2015.0,16.0,Satisfaccion mínima,Hombre,45-59,3690.0,227536721957000.0,510463278043000.0,Vivienda,Miguel Hidalgo
+346,2015.0,16.0,Satisfaccion mínima,Hombre,60 y mas,2436.0,162110911841000.0,325089088159000.0,Vivienda,Miguel Hidalgo
+347,2015.0,16.0,Estrato medio,Mujer,30-44,16979.0,105422004957000.0,234157995043000.0,Vivienda,Miguel Hidalgo
+348,2015.0,16.0,Estrato medio,Mujer,60 y mas,10339.0,768352170833000.0,1299447829170.0,Vivienda,Miguel Hidalgo
+349,2015.0,16.0,Estrato medio,Mujer,No especificado,143.0,-393978903764000.0,325397890376000.0,Vivienda,Miguel Hidalgo
+350,2015.0,16.0,Estrato alto,Hombre,0-11,2506.0,151140092909000.0,350059907091000.0,Vivienda,Miguel Hidalgo
+351,2015.0,16.0,Estrato alto,Hombre,45-59,8905.0,675308045007000.0,110569195499000.0,Vivienda,Miguel Hidalgo
+352,2015.0,16.0,Estrato alto,Hombre,60 y mas,9791.0,688866243699000.0,126933375630000.0,Vivienda,Miguel Hidalgo
+353,2015.0,16.0,Estrato alto,Mujer,12-29,7588.0,510828775221000.0,100677122478000.0,Vivienda,Miguel Hidalgo
+354,2015.0,16.0,Estrato alto,Mujer,45-59,9686.0,67471403722700.0,126248596277000.0,Vivienda,Miguel Hidalgo
+355,2015.0,16.0,Estrato alto,Mujer,No especificado,20.0,-280133962596000.0,680133962596000.0,Vivienda,Miguel Hidalgo
+356,2015.0,17.0,Pobreza muy alta,Mujer,0-11,8284.0,583776351073000.0,107302364893000.0,Vivienda,Venustiano Carranza
+357,2015.0,17.0,Pobreza muy alta,Mujer,60 y mas,3110.0,219072471000000.0,402927529000000.0,Vivienda,Venustiano Carranza
+358,2015.0,17.0,Pobreza alta,Hombre,12-29,7950.0,597353471491000.0,992646528509000.0,Vivienda,Venustiano Carranza
+359,2015.0,17.0,Pobreza alta,Hombre,45-59,4332.0,333789896234000.0,532610103766000.0,Vivienda,Venustiano Carranza
+360,2015.0,17.0,Pobreza alta,Mujer,12-29,7940.0,619894650991000.0,968105349009000.0,Vivienda,Venustiano Carranza
+361,2015.0,17.0,Pobreza alta,Mujer,45-59,4820.0,350586851941000.0,613413148059000.0,Vivienda,Venustiano Carranza
+362,2015.0,17.0,Pobreza moderada,Mujer,0-11,7175.0,571743916429000.0,863256083571000.0,Vivienda,Venustiano Carranza
+363,2015.0,17.0,Pobreza moderada,Mujer,12-29,14401.0,116095060770000.0,171924939230000.0,Vivienda,Venustiano Carranza
+364,2015.0,17.0,Pobreza moderada,Mujer,45-59,9754.0,768378572538000.0,11824214274600.0,Vivienda,Venustiano Carranza
+365,2015.0,17.0,Pobreza moderada,Mujer,60 y mas,8500.0,675172947063000.0,102482705294000.0,Vivienda,Venustiano Carranza
+366,2015.0,17.0,Satisfaccion mínima,Hombre,45-59,5002.0,361255001432000.0,639144998568000.0,Vivienda,Venustiano Carranza
+367,2015.0,17.0,Satisfaccion mínima,Mujer,30-44,7446.0,567635924495000.0,921564075505000.0,Vivienda,Venustiano Carranza
+368,2015.0,17.0,Estrato medio,Hombre,12-29,11443.0,910291435621000.0,137830856438000.0,Vivienda,Venustiano Carranza
+369,2015.0,17.0,Estrato medio,Hombre,45-59,10104.0,831721831730000.0,118907816827000.0,Vivienda,Venustiano Carranza
+370,2015.0,17.0,Estrato alto,Hombre,60 y mas,5544.0,411073134131000.0,697726865869000.0,Vivienda,Venustiano Carranza
+371,2015.0,17.0,Estrato alto,Mujer,12-29,3397.0,231149441593000.0,448250558407000.0,Vivienda,Venustiano Carranza
+372,2015.0,17.0,Estrato alto,Mujer,60 y mas,9526.0,73352857617800.0,117167142382000.0,Vivienda,Venustiano Carranza
+373,2015.0,2.0,Pobreza muy alta,Hombre,12-29,7340.0,567006883294000.0,900993116706000.0,Vivienda,Azcapotzalco
+374,2015.0,2.0,Pobreza muy alta,Mujer,0-11,5243.0,362833903162000.0,685766096838000.0,Vivienda,Azcapotzalco
+375,2015.0,2.0,Pobreza muy alta,Mujer,12-29,8460.0,631393635256000.0,106060636474000.0,Vivienda,Azcapotzalco
+376,2015.0,2.0,Pobreza muy alta,Mujer,45-59,4147.0,289402701510000.0,539997298490000.0,Vivienda,Azcapotzalco
+377,2015.0,2.0,Pobreza alta,Hombre,0-11,3267.0,154292574688000.0,499107425312000.0,Vivienda,Azcapotzalco
+378,2015.0,2.0,Pobreza alta,Hombre,30-44,4073.0,223949151399000.0,590650848601000.0,Vivienda,Azcapotzalco
+379,2015.0,2.0,Pobreza alta,Hombre,45-59,3196.0,179811213868000.0,459388786132000.0,Vivienda,Azcapotzalco
+380,2015.0,2.0,Pobreza alta,Mujer,12-29,5872.0,364411576185000.0,809988423815000.0,Vivienda,Azcapotzalco
+381,2015.0,2.0,Pobreza alta,Mujer,30-44,4333.0,220981202228000.0,645618797772000.0,Vivienda,Azcapotzalco
+382,2015.0,2.0,Pobreza alta,Mujer,45-59,3190.0,201586219025000.0,436413780975000.0,Vivienda,Azcapotzalco
+383,2015.0,2.0,Pobreza moderada,Hombre,0-11,7746.0,617229034539000.0,931970965461000.0,Vivienda,Azcapotzalco
+384,2015.0,2.0,Pobreza moderada,Hombre,45-59,7549.0,59912268523900.0,91067731476100.0,Vivienda,Azcapotzalco
+385,2015.0,2.0,Satisfaccion mínima,Mujer,30-44,7646.0,626630621654000.0,902569378346000.0,Vivienda,Azcapotzalco
+386,2015.0,2.0,Satisfaccion mínima,Mujer,45-59,6856.0,528120348642000.0,843079651358000.0,Vivienda,Azcapotzalco
+387,2015.0,2.0,Satisfaccion mínima,Mujer,60 y mas,4940.0,35618267585400.0,63181732414600.0,Vivienda,Azcapotzalco
+388,2015.0,2.0,Estrato medio,Hombre,30-44,12356.0,101722189691000.0,145397810309000.0,Vivienda,Azcapotzalco
+389,2015.0,2.0,Estrato medio,Mujer,12-29,14166.0,120094880394000.0,163225119606000.0,Vivienda,Azcapotzalco
+390,2015.0,2.0,Estrato medio,Mujer,45-59,14879.0,126535863476000.0,171044136524000.0,Vivienda,Azcapotzalco
+391,2015.0,2.0,Estrato alto,Hombre,30-44,5419.0,369582605955000.0,714217394045000.0,Vivienda,Azcapotzalco
+392,2015.0,2.0,Estrato alto,Hombre,45-59,4026.0,29843890113500.0,50676109886500.0,Vivienda,Azcapotzalco
+393,2015.0,3.0,Pobreza muy alta,Hombre,12-29,11949.0,914419627340000.0,147538037266000.0,Vivienda,Coyoacán
+394,2015.0,3.0,Pobreza muy alta,Mujer,60 y mas,2859.0,2033853319180.0,3684146680820.0,Vivienda,Coyoacán
+395,2015.0,3.0,Pobreza alta,Hombre,12-29,7089.0,528650604830000.0,889149395170000.0,Vivienda,Coyoacán
+396,2015.0,3.0,Pobreza alta,Hombre,60 y mas,2131.0,138988969581000.0,287211030419000.0,Vivienda,Coyoacán
+397,2015.0,3.0,Pobreza alta,Hombre,No especificado,66.0,-106719386206000.0,238719386206000.0,Vivienda,Coyoacán
+398,2015.0,3.0,Pobreza alta,Mujer,30-44,5997.0,440824209551000.0,758575790449000.0,Vivienda,Coyoacán
+399,2015.0,3.0,Pobreza alta,Mujer,45-59,4256.0,3306008508360.0,5205991491640.0,Vivienda,Coyoacán
+400,2015.0,3.0,Pobreza moderada,Hombre,60 y mas,6371.0,526416657458000.0,747783342542000.0,Vivienda,Coyoacán
+401,2015.0,3.0,Pobreza moderada,Hombre,No especificado,86.0,-16258151062200.0,188258151062000.0,Vivienda,Coyoacán
+402,2015.0,3.0,Pobreza moderada,Mujer,12-29,14545.0,119017392654000.0,171882607346000.0,Vivienda,Coyoacán
+403,2015.0,3.0,Pobreza moderada,Mujer,No especificado,18.0,-160641540003000.0,520641540003000.0,Vivienda,Coyoacán
+404,2015.0,3.0,Satisfaccion mínima,Hombre,12-29,9889.0,810061337527000.0,116773866247000.0,Vivienda,Coyoacán
+405,2015.0,3.0,Satisfaccion mínima,Mujer,0-11,5108.0,417441547459000.0,604158452541000.0,Vivienda,Coyoacán
+406,2015.0,3.0,Satisfaccion mínima,Mujer,45-59,7554.0,635146929765000.0,875653070235000.0,Vivienda,Coyoacán
+407,2015.0,3.0,Satisfaccion mínima,Mujer,60 y mas,6427.0,531582772290000.0,753817227710000.0,Vivienda,Coyoacán
+408,2015.0,3.0,Estrato medio,Hombre,No especificado,342.0,820648246327000.0,601935175367000.0,Vivienda,Coyoacán
+409,2015.0,3.0,Estrato medio,Mujer,0-11,8702.0,740868860169000.0,999531139831000.0,Vivienda,Coyoacán
+410,2015.0,3.0,Estrato medio,Mujer,12-29,24215.0,208203170123000.0,276096829877000.0,Vivienda,Coyoacán
+411,2015.0,3.0,Estrato alto,Hombre,45-59,11042.0,882950619610000.0,132544938039000.0,Vivienda,Coyoacán
+412,2015.0,3.0,Estrato alto,Mujer,12-29,9686.0,729043305268000.0,120815669473000.0,Vivienda,Coyoacán
+413,2015.0,3.0,Estrato alto,Mujer,45-59,13999.0,110877512525000.0,169102487475000.0,Vivienda,Coyoacán
+414,2015.0,3.0,Estrato alto,Mujer,No especificado,368.0,653826882781000.0,670617311722000.0,Vivienda,Coyoacán
+415,2015.0,4.0,Pobreza muy alta,Hombre,No especificado,3.0,-209558564743000.0,809558564743000.0,Vivienda,Cuajimalpa de Morelos
+416,2015.0,4.0,Pobreza muy alta,Mujer,45-59,2345.0,179308698394000.0,289691301606000.0,Vivienda,Cuajimalpa de Morelos
+417,2015.0,4.0,Pobreza alta,Hombre,12-29,3636.0,236831166640000.0,490368833360000.0,Vivienda,Cuajimalpa de Morelos
+418,2015.0,4.0,Pobreza alta,Hombre,30-44,2290.0,132986786847000.0,325013213153000.0,Vivienda,Cuajimalpa de Morelos
+419,2015.0,4.0,Pobreza alta,Mujer,12-29,3259.0,20167758313500.0,45012241686500.0,Vivienda,Cuajimalpa de Morelos
+420,2015.0,4.0,Pobreza moderada,Hombre,30-44,4091.0,312828555223000.0,505371444777000.0,Vivienda,Cuajimalpa de Morelos
+421,2015.0,4.0,Pobreza moderada,Hombre,60 y mas,1244.0,848053629279000.0,163994637072000.0,Vivienda,Cuajimalpa de Morelos
+422,2015.0,4.0,Pobreza moderada,Mujer,45-59,3099.0,242123581876000.0,377676418124000.0,Vivienda,Cuajimalpa de Morelos
+423,2015.0,4.0,Satisfaccion mínima,Hombre,12-29,2708.0,178888462312000.0,362711537688000.0,Vivienda,Cuajimalpa de Morelos
+424,2015.0,4.0,Satisfaccion mínima,Hombre,30-44,1844.0,128739504000000.0,240060496000000.0,Vivienda,Cuajimalpa de Morelos
+425,2015.0,4.0,Satisfaccion mínima,Hombre,60 y mas,716.0,428546984919000.0,100345301508000.0,Vivienda,Cuajimalpa de Morelos
+426,2015.0,4.0,Satisfaccion mínima,Mujer,0-11,1179.0,733747511253000.0,162425248875000.0,Vivienda,Cuajimalpa de Morelos
+427,2015.0,4.0,Satisfaccion mínima,Mujer,30-44,2076.0,1330424498940.0,2821575501060.0,Vivienda,Cuajimalpa de Morelos
+428,2015.0,4.0,Estrato medio,Hombre,30-44,4580.0,314381390183000.0,601618609817000.0,Vivienda,Cuajimalpa de Morelos
+429,2015.0,4.0,Estrato medio,Mujer,No especificado,8.0,-130974840062000.0,290974840062000.0,Vivienda,Cuajimalpa de Morelos
+430,2015.0,4.0,Estrato alto,Hombre,0-11,1604.0,630806218985000.0,257719378102000.0,Vivienda,Cuajimalpa de Morelos
+431,2015.0,4.0,Estrato alto,Hombre,12-29,4223.0,169842126333000.0,674757873667000.0,Vivienda,Cuajimalpa de Morelos
+432,2015.0,4.0,Estrato alto,Hombre,60 y mas,3045.0,183737274967000.0,425262725033000.0,Vivienda,Cuajimalpa de Morelos
+433,2015.0,4.0,Estrato alto,Mujer,0-11,1564.0,840964571218000.0,228703542878000.0,Vivienda,Cuajimalpa de Morelos
+434,2015.0,4.0,Estrato alto,Mujer,60 y mas,3627.0,214727548288000.0,510672451712000.0,Vivienda,Cuajimalpa de Morelos
+435,2015.0,5.0,Pobreza muy alta,Hombre,30-44,20006.0,1631330157400.0,2369869842600.0,Vivienda,Gustavo A. Madero
+436,2015.0,5.0,Pobreza muy alta,Mujer,0-11,27136.0,230347551469000.0,312372448531000.0,Vivienda,Gustavo A. Madero
+437,2015.0,5.0,Pobreza muy alta,Mujer,12-29,33634.0,283139314219000.0,389540685781000.0,Vivienda,Gustavo A. Madero
+438,2015.0,5.0,Pobreza muy alta,Mujer,30-44,23930.0,196881044813000.0,281718955187000.0,Vivienda,Gustavo A. Madero
+439,2015.0,5.0,Pobreza muy alta,Mujer,45-59,11747.0,974859496077000.0,137454050392000.0,Vivienda,Gustavo A. Madero
+440,2015.0,5.0,Pobreza alta,Hombre,30-44,13676.0,107657223033000.0,165862776967000.0,Vivienda,Gustavo A. Madero
+441,2015.0,5.0,Pobreza alta,Hombre,60 y mas,5152.0,374767700488000.0,655632299512000.0,Vivienda,Gustavo A. Madero
+442,2015.0,5.0,Pobreza moderada,Hombre,0-11,24328.0,197121106762000.0,289438893238000.0,Vivienda,Gustavo A. Madero
+443,2015.0,5.0,Pobreza moderada,Hombre,30-44,28498.0,244745734636000.0,325214265364000.0,Vivienda,Gustavo A. Madero
+444,2015.0,5.0,Pobreza moderada,Hombre,60 y mas,16171.0,137292026902000.0,186127973098000.0,Vivienda,Gustavo A. Madero
+445,2015.0,5.0,Pobreza moderada,Hombre,No especificado,33.0,-163603372948000.0,823603372948000.0,Vivienda,Gustavo A. Madero
+446,2015.0,5.0,Satisfaccion mínima,Hombre,0-11,10682.0,889583930846000.0,124681606915000.0,Vivienda,Gustavo A. Madero
+447,2015.0,5.0,Satisfaccion mínima,Mujer,30-44,18102.0,156331504525000.0,205708495475000.0,Vivienda,Gustavo A. Madero
+448,2015.0,5.0,Estrato medio,Hombre,60 y mas,25212.0,218079324155000.0,286160675845000.0,Vivienda,Gustavo A. Madero
+449,2015.0,5.0,Estrato medio,Mujer,12-29,37457.0,32802868856000.0,42111131144000.0,Vivienda,Gustavo A. Madero
+450,2015.0,5.0,Estrato alto,Hombre,30-44,11463.0,950521893203000.0,134207810680000.0,Vivienda,Gustavo A. Madero
+451,2015.0,5.0,Estrato alto,Hombre,45-59,13726.0,114590708470000.0,159929291530000.0,Vivienda,Gustavo A. Madero
+452,2015.0,5.0,Estrato alto,Hombre,No especificado,115.0,-759267311067000.0,305926731107000.0,Vivienda,Gustavo A. Madero
+453,2015.0,5.0,Estrato alto,Mujer,45-59,17048.0,142165707855000.0,198794292145000.0,Vivienda,Gustavo A. Madero
+454,2015.0,6.0,Pobreza muy alta,Hombre,0-11,5895.0,422134327233000.0,756865672767000.0,Vivienda,Iztacalco
+455,2015.0,6.0,Pobreza muy alta,Hombre,60 y mas,1593.0,87397627265900.0,231202372734000.0,Vivienda,Iztacalco
+456,2015.0,6.0,Pobreza muy alta,Mujer,12-29,7933.0,575325822233000.0,10112741777700.0,Vivienda,Iztacalco
+457,2015.0,6.0,Pobreza muy alta,Mujer,45-59,3515.0,233189902382000.0,469810097618000.0,Vivienda,Iztacalco
+458,2015.0,6.0,Pobreza alta,Hombre,0-11,4148.0,227757844479000.0,601842155521000.0,Vivienda,Iztacalco
+459,2015.0,6.0,Pobreza alta,Hombre,30-44,3859.0,241551310895000.0,530248689105000.0,Vivienda,Iztacalco
+460,2015.0,6.0,Pobreza alta,Hombre,45-59,2798.0,190574378814000.0,369025621186000.0,Vivienda,Iztacalco
+461,2015.0,6.0,Pobreza alta,Hombre,No especificado,2.0,-349275882364000.0,749275882364000.0,Vivienda,Iztacalco
+462,2015.0,6.0,Pobreza moderada,Mujer,No especificado,14.0,-214510140771000.0,494510140771000.0,Vivienda,Iztacalco
+463,2015.0,6.0,Satisfaccion mínima,Hombre,0-11,5044.0,326147293674000.0,682652706326000.0,Vivienda,Iztacalco
+464,2015.0,6.0,Satisfaccion mínima,Hombre,12-29,8611.0,62787864206200.0,109432135794000.0,Vivienda,Iztacalco
+465,2015.0,6.0,Satisfaccion mínima,Hombre,30-44,6903.0,53379310476800.0,84680689523200.0,Vivienda,Iztacalco
+466,2015.0,6.0,Satisfaccion mínima,Hombre,45-59,5867.0,424623925476000.0,748776074524000.0,Vivienda,Iztacalco
+467,2015.0,6.0,Satisfaccion mínima,Mujer,No especificado,36.0,-288772697777000.0,100877269778000.0,Vivienda,Iztacalco
+468,2015.0,6.0,Estrato medio,Hombre,30-44,11850.0,963458312979000.0,140654168702000.0,Vivienda,Iztacalco
+469,2015.0,6.0,Estrato medio,Hombre,60 y mas,8775.0,717445310197000.0,10375546898000.0,Vivienda,Iztacalco
+470,2015.0,6.0,Estrato medio,Mujer,12-29,13285.0,109147900686000.0,156552099314000.0,Vivienda,Iztacalco
+471,2015.0,6.0,Estrato medio,Mujer,30-44,12670.0,10195190132800.0,15144809867200.0,Vivienda,Iztacalco
+472,2015.0,6.0,Estrato medio,Mujer,60 y mas,12362.0,10296583975000.0,14427416025000.0,Vivienda,Iztacalco
+473,2015.0,6.0,Estrato alto,Hombre,0-11,673.0,216730683366000.0,112926931663000.0,Vivienda,Iztacalco
+474,2015.0,6.0,Estrato alto,Hombre,12-29,3567.0,245678547799000.0,467721452201000.0,Vivienda,Iztacalco
+475,2015.0,6.0,Estrato alto,Hombre,45-59,4702.0,365691617719000.0,574708382281000.0,Vivienda,Iztacalco
+476,2015.0,6.0,Estrato alto,Mujer,30-44,4201.0,309892462305000.0,530307537695000.0,Vivienda,Iztacalco
+477,2015.0,6.0,Estrato alto,Mujer,45-59,5531.0,427184611198000.0,679015388802000.0,Vivienda,Iztacalco
+478,2015.0,7.0,Pobreza muy alta,Hombre,60 y mas,8843.0,738178960106000.0,103042103989000.0,Vivienda,Iztapalapa
+479,2015.0,7.0,Pobreza alta,Hombre,0-11,24196.0,210100894087000.0,273819105913000.0,Vivienda,Iztapalapa
+480,2015.0,7.0,Pobreza alta,Hombre,12-29,36748.0,32701404366200.0,40794595633800.0,Vivienda,Iztapalapa
+481,2015.0,7.0,Pobreza alta,Hombre,30-44,24724.0,218737895686000.0,275742104314000.0,Vivienda,Iztapalapa
+482,2015.0,7.0,Pobreza alta,Mujer,0-11,25095.0,215685318670000.0,286214681330000.0,Vivienda,Iztapalapa
+483,2015.0,7.0,Pobreza alta,Mujer,45-59,20131.0,175109976097000.0,227510023903000.0,Vivienda,Iztapalapa
+484,2015.0,7.0,Pobreza moderada,Mujer,30-44,57767.0,531485235115000.0,623854764885000.0,Vivienda,Iztapalapa
+485,2015.0,7.0,Pobreza moderada,Mujer,No especificado,314.0,402781863133000.0,587721813687000.0,Vivienda,Iztapalapa
+486,2015.0,7.0,Satisfaccion mínima,Hombre,60 y mas,13506.0,118065558101000.0,152054441899000.0,Vivienda,Iztapalapa
+487,2015.0,7.0,Estrato medio,Hombre,12-29,50100.0,452244615877000.0,549755384123000.0,Vivienda,Iztapalapa
+488,2015.0,7.0,Estrato medio,Hombre,30-44,40606.0,367097119883000.0,445022880117000.0,Vivienda,Iztapalapa
+489,2015.0,7.0,Estrato medio,Hombre,60 y mas,25588.0,226093064687000.0,285666935313000.0,Vivienda,Iztapalapa
+490,2015.0,7.0,Estrato medio,Mujer,No especificado,94.0,637515510650000.0,181624844893000.0,Vivienda,Iztapalapa
+491,2015.0,7.0,Estrato alto,Hombre,12-29,12642.0,102180925177000.0,150659074823000.0,Vivienda,Iztapalapa
+492,2015.0,7.0,Estrato alto,Hombre,30-44,13720.0,114669079843000.0,159730920157000.0,Vivienda,Iztapalapa
+493,2015.0,7.0,Estrato alto,Hombre,45-59,14455.0,122715054503000.0,166384945497000.0,Vivienda,Iztapalapa
+494,2015.0,7.0,Estrato alto,Mujer,0-11,3185.0,216646267717000.0,420353732283000.0,Vivienda,Iztapalapa
+495,2015.0,8.0,Pobreza muy alta,Hombre,0-11,8720.0,672482756768000.0,107151724323000.0,Vivienda,La Magdalena Contreras
+496,2015.0,8.0,Pobreza muy alta,Hombre,30-44,7422.0,596684246439000.0,887715753561000.0,Vivienda,La Magdalena Contreras
+497,2015.0,8.0,Pobreza alta,Hombre,12-29,4489.0,317049633393000.0,580750366607000.0,Vivienda,La Magdalena Contreras
+498,2015.0,8.0,Pobreza alta,Hombre,60 y mas,1291.0,866511892012000.0,1715488107990.0,Vivienda,La Magdalena Contreras
+499,2015.0,8.0,Pobreza alta,Hombre,No especificado,8.0,-124178086729000.0,284178086729000.0,Vivienda,La Magdalena Contreras
+500,2015.0,8.0,Pobreza alta,Mujer,30-44,3642.0,24381291722900.0,48458708277100.0,Vivienda,La Magdalena Contreras
+501,2015.0,8.0,Pobreza alta,Mujer,45-59,2663.0,197673759872000.0,334926240128000.0,Vivienda,La Magdalena Contreras
+502,2015.0,8.0,Pobreza alta,Mujer,60 y mas,1600.0,112152539523000.0,207847460477000.0,Vivienda,La Magdalena Contreras
+503,2015.0,8.0,Pobreza alta,Mujer,No especificado,24.0,-262772509246000.0,742772509246000.0,Vivienda,La Magdalena Contreras
+504,2015.0,8.0,Pobreza moderada,Hombre,30-44,6179.0,454883154936000.0,780916845064000.0,Vivienda,La Magdalena Contreras
+505,2015.0,8.0,Pobreza moderada,Mujer,12-29,8093.0,610069223098000.0,100853077690000.0,Vivienda,La Magdalena Contreras
+506,2015.0,8.0,Satisfaccion mínima,Hombre,60 y mas,1295.0,89212585242800.0,169787414757000.0,Vivienda,La Magdalena Contreras
+507,2015.0,8.0,Satisfaccion mínima,Mujer,0-11,1570.0,987544053030000.0,21524559469700.0,Vivienda,La Magdalena Contreras
+508,2015.0,8.0,Satisfaccion mínima,Mujer,12-29,3093.0,232511397822000.0,386088602178000.0,Vivienda,La Magdalena Contreras
+509,2015.0,8.0,Estrato medio,Hombre,0-11,2910.0,203077285431000.0,378922714569000.0,Vivienda,La Magdalena Contreras
+510,2015.0,8.0,Estrato medio,Hombre,12-29,6239.0,48425981701600.0,76354018298400.0,Vivienda,La Magdalena Contreras
+511,2015.0,8.0,Estrato medio,Hombre,60 y mas,2876.0,220639430642000.0,354560569358000.0,Vivienda,La Magdalena Contreras
+512,2015.0,8.0,Estrato medio,Mujer,0-11,2282.0,178062034417000.0,278337965583000.0,Vivienda,La Magdalena Contreras
+513,2015.0,8.0,Estrato medio,Mujer,12-29,5541.0,434616217438000.0,673583782562000.0,Vivienda,La Magdalena Contreras
+514,2015.0,8.0,Estrato medio,Mujer,45-59,5164.0,385488224009000.0,647311775991000.0,Vivienda,La Magdalena Contreras
+515,2015.0,8.0,Estrato alto,Hombre,0-11,710.0,363914053850000.0,105608594615000.0,Vivienda,La Magdalena Contreras
+516,2015.0,8.0,Estrato alto,Hombre,30-44,2498.0,192199634426000.0,307400365574000.0,Vivienda,La Magdalena Contreras
+517,2015.0,9.0,Pobreza muy alta,Hombre,0-11,6678.0,478442568580000.0,857157431420000.0,Vivienda,Milpa Alta
+518,2015.0,9.0,Pobreza muy alta,Hombre,12-29,7468.0,511167459241000.0,982432540759000.0,Vivienda,Milpa Alta
+519,2015.0,9.0,Pobreza muy alta,Hombre,45-59,2170.0,147011370251000.0,286988629749000.0,Vivienda,Milpa Alta
+520,2015.0,9.0,Pobreza alta,Hombre,0-11,2072.0,125237990392000.0,289162009608000.0,Vivienda,Milpa Alta
+521,2015.0,9.0,Pobreza alta,Hombre,45-59,1577.0,100763499113000.0,214636500887000.0,Vivienda,Milpa Alta
+522,2015.0,9.0,Pobreza alta,Mujer,30-44,2375.0,140271146638000.0,334728853362000.0,Vivienda,Milpa Alta
+523,2015.0,9.0,Pobreza alta,Mujer,60 y mas,797.0,510128359862000.0,108387164014000.0,Vivienda,Milpa Alta
+524,2015.0,9.0,Pobreza moderada,Mujer,0-11,3476.0,238406146335000.0,456793853665000.0,Vivienda,Milpa Alta
+525,2015.0,9.0,Pobreza moderada,Mujer,45-59,2741.0,180340421431000.0,367859578569000.0,Vivienda,Milpa Alta
+526,2015.0,9.0,Pobreza moderada,Mujer,60 y mas,1944.0,136496702085000.0,252303297915000.0,Vivienda,Milpa Alta
+527,2015.0,9.0,Satisfaccion mínima,Hombre,60 y mas,916.0,589506062709000.0,124249393729000.0,Vivienda,Milpa Alta
+528,2015.0,9.0,Satisfaccion mínima,Mujer,12-29,1850.0,108213682276000.0,261786317724000.0,Vivienda,Milpa Alta
+529,2015.0,9.0,Estrato medio,Hombre,0-11,1054.0,627210723671000.0,148078927633000.0,Vivienda,Milpa Alta
+530,2015.0,9.0,Estrato medio,Hombre,60 y mas,956.0,624260736738000.0,12877392632600.0,Vivienda,Milpa Alta
+531,2015.0,9.0,Estrato medio,Mujer,30-44,1912.0,127045850172000.0,255354149828000.0,Vivienda,Milpa Alta
+532,2015.0,9.0,Estrato alto,Hombre,12-29,582.0,213651937389000.0,950348062611000.0,Vivienda,Milpa Alta
+533,2015.0,9.0,Estrato alto,Hombre,60 y mas,513.0,281531524034000.0,744468475966000.0,Vivienda,Milpa Alta
+534,2015.0,9.0,Estrato alto,Mujer,12-29,480.0,283159777285000.0,676840222715000.0,Vivienda,Milpa Alta
+535,2015.0,9.0,Estrato alto,Mujer,45-59,714.0,486837670008000.0,941162329992000.0,Vivienda,Milpa Alta
+536,2015.0,9.0,Estrato alto,Mujer,60 y mas,637.0,366760529268000.0,907239470732000.0,Vivienda,Milpa Alta
+537,2015.0,10.0,Pobreza muy alta,Hombre,45-59,8387.0,641950137759000.0,10354498622400.0,Vivienda,Álvaro Obregón
+538,2015.0,10.0,Pobreza alta,Hombre,30-44,7768.0,627825470190000.0,925774529810000.0,Vivienda,Álvaro Obregón
+539,2015.0,10.0,Pobreza alta,Mujer,30-44,9137.0,764746813397000.0,106265318660000.0,Vivienda,Álvaro Obregón
+540,2015.0,10.0,Pobreza alta,Mujer,45-59,6704.0,535413705330000.0,805386294670000.0,Vivienda,Álvaro Obregón
+541,2015.0,10.0,Pobreza moderada,Hombre,No especificado,99.0,-66073124843300.0,264073124843000.0,Vivienda,Álvaro Obregón
+542,2015.0,10.0,Pobreza moderada,Mujer,0-11,14301.0,115712883823000.0,170307116177000.0,Vivienda,Álvaro Obregón
+543,2015.0,10.0,Pobreza moderada,Mujer,60 y mas,10651.0,889714728596000.0,124048527140000.0,Vivienda,Álvaro Obregón
+544,2015.0,10.0,Pobreza moderada,Mujer,No especificado,42.0,-433155585831000.0,127315558583000.0,Vivienda,Álvaro Obregón
+545,2015.0,10.0,Satisfaccion mínima,Hombre,0-11,6083.0,478420439238000.0,738179560762000.0,Vivienda,Álvaro Obregón
+546,2015.0,10.0,Satisfaccion mínima,Hombre,12-29,12966.0,105102074011000.0,154217925989000.0,Vivienda,Álvaro Obregón
+547,2015.0,10.0,Satisfaccion mínima,Hombre,30-44,10823.0,845611631531000.0,131898836847000.0,Vivienda,Álvaro Obregón
+548,2015.0,10.0,Satisfaccion mínima,Mujer,12-29,12290.0,106494285508000.0,139305714492000.0,Vivienda,Álvaro Obregón
+549,2015.0,10.0,Satisfaccion mínima,Mujer,30-44,11380.0,937469591350000.0,13385304086500.0,Vivienda,Álvaro Obregón
+550,2015.0,10.0,Estrato medio,Hombre,12-29,22084.0,18632542726600.0,25535457273400.0,Vivienda,Álvaro Obregón
+551,2015.0,10.0,Estrato medio,Hombre,60 y mas,12150.0,101431949473000.0,141568050527000.0,Vivienda,Álvaro Obregón
+552,2015.0,10.0,Estrato medio,Hombre,No especificado,7.0,-126464744126000.0,266464744126000.0,Vivienda,Álvaro Obregón
+553,2015.0,10.0,Estrato medio,Mujer,0-11,10545.0,786051431298000.0,132294856870000.0,Vivienda,Álvaro Obregón
+554,2015.0,10.0,Estrato medio,Mujer,12-29,21552.0,181444010932000.0,249595989068000.0,Vivienda,Álvaro Obregón
+555,2015.0,10.0,Estrato medio,Mujer,45-59,20431.0,17127768415400.0,23734231584600.0,Vivienda,Álvaro Obregón
+556,2015.0,10.0,Estrato medio,Mujer,60 y mas,15872.0,136552003283000.0,180887996717000.0,Vivienda,Álvaro Obregón
+557,2015.0,10.0,Estrato medio,Mujer,No especificado,45.0,-35331027847700.0,125331027848000.0,Vivienda,Álvaro Obregón
+558,2015.0,10.0,Estrato alto,Hombre,0-11,2882.0,168445402970000.0,407954597030000.0,Vivienda,Álvaro Obregón
+559,2015.0,10.0,Estrato alto,Hombre,12-29,7922.0,562823294251000.0,102157670575000.0,Vivienda,Álvaro Obregón
+560,2015.0,10.0,Estrato alto,Mujer,30-44,10810.0,717017957083000.0,144498204292000.0,Vivienda,Álvaro Obregón
+561,2015.0,10.0,Estrato alto,Mujer,No especificado,77.0,-450890367663000.0,199089036766000.0,Vivienda,Álvaro Obregón
+562,2015.0,11.0,Pobreza muy alta,Hombre,0-11,10749.0,866224536390000.0,128357546361000.0,Vivienda,Tláhuac
+563,2015.0,11.0,Pobreza muy alta,Mujer,0-11,10656.0,862601461687000.0,126859853831000.0,Vivienda,Tláhuac
+564,2015.0,11.0,Pobreza alta,Hombre,12-29,7506.0,573568260109000.0,927631739891000.0,Vivienda,Tláhuac
+565,2015.0,11.0,Pobreza alta,Mujer,45-59,3039.0,227007856349000.0,380792143651000.0,Vivienda,Tláhuac
+566,2015.0,11.0,Pobreza moderada,Hombre,12-29,16416.0,136267464889000.0,192052535111000.0,Vivienda,Tláhuac
+567,2015.0,11.0,Pobreza moderada,Mujer,45-59,9917.0,782017392627000.0,120138260737000.0,Vivienda,Tláhuac
+568,2015.0,11.0,Pobreza moderada,Mujer,No especificado,15.0,-172856661792000.0,472856661792000.0,Vivienda,Tláhuac
+569,2015.0,11.0,Satisfaccion mínima,Hombre,45-59,4648.0,329447475992000.0,600152524008000.0,Vivienda,Tláhuac
+570,2015.0,11.0,Satisfaccion mínima,Hombre,60 y mas,2281.0,148726336349000.0,307473663651000.0,Vivienda,Tláhuac
+571,2015.0,11.0,Satisfaccion mínima,Mujer,0-11,3691.0,258531487466000.0,479668512534000.0,Vivienda,Tláhuac
+572,2015.0,11.0,Satisfaccion mínima,Mujer,12-29,7100.0,564283879007000.0,855716120993000.0,Vivienda,Tláhuac
+573,2015.0,11.0,Satisfaccion mínima,Mujer,60 y mas,2525.0,183989368303000.0,321010631697000.0,Vivienda,Tláhuac
+574,2015.0,11.0,Estrato medio,Hombre,12-29,9856.0,801186174496000.0,117001382550000.0,Vivienda,Tláhuac
+575,2015.0,11.0,Estrato medio,Hombre,45-59,6627.0,54174866612400.0,78365133387600.0,Vivienda,Tláhuac
+576,2015.0,11.0,Estrato medio,Hombre,60 y mas,4163.0,330152922116000.0,502447077884000.0,Vivienda,Tláhuac
+577,2015.0,11.0,Estrato medio,Mujer,0-11,3752.0,275063247284000.0,475336752716000.0,Vivienda,Tláhuac
+578,2015.0,11.0,Estrato medio,Mujer,45-59,8197.0,679983299575000.0,959416700425000.0,Vivienda,Tláhuac
+579,2015.0,11.0,Estrato medio,Mujer,60 y mas,4585.0,368712392928000.0,548287607072000.0,Vivienda,Tláhuac
+580,2015.0,11.0,Estrato alto,Hombre,12-29,2526.0,165375908836000.0,339824091164000.0,Vivienda,Tláhuac
+581,2015.0,11.0,Estrato alto,Hombre,45-59,2395.0,170636921924000.0,308363078076000.0,Vivienda,Tláhuac
+582,2015.0,12.0,Pobreza muy alta,Hombre,0-11,20211.0,165282708986000.0,238937291014000.0,Vivienda,Tlalpan
+583,2015.0,12.0,Pobreza muy alta,Hombre,30-44,15938.0,132154510089000.0,186605489911000.0,Vivienda,Tlalpan
+584,2015.0,12.0,Pobreza muy alta,Hombre,45-59,6676.0,536365721436000.0,798834278564000.0,Vivienda,Tlalpan
+585,2015.0,12.0,Pobreza muy alta,Hombre,60 y mas,3086.0,24404556183300.0,37315443816700.0,Vivienda,Tlalpan
+586,2015.0,12.0,Pobreza muy alta,Hombre,No especificado,41.0,-192483412499000.0,101248341250000.0,Vivienda,Tlalpan
+587,2015.0,12.0,Pobreza muy alta,Mujer,60 y mas,3706.0,293004778034000.0,448195221966000.0,Vivienda,Tlalpan
+588,2015.0,12.0,Pobreza alta,Hombre,45-59,4518.0,3778775103610.0,5257224896390.0,Vivienda,Tlalpan
+589,2015.0,12.0,Pobreza alta,Mujer,0-11,6698.0,552313358324000.0,787286641676000.0,Vivienda,Tlalpan
+590,2015.0,12.0,Pobreza alta,Mujer,No especificado,19.0,-881781720309000.0,468178172031000.0,Vivienda,Tlalpan
+591,2015.0,12.0,Pobreza moderada,Hombre,No especificado,19.0,-879932035239000.0,467993203524000.0,Vivienda,Tlalpan
+592,2015.0,12.0,Pobreza moderada,Mujer,60 y mas,8901.0,742981905571000.0,103721809443000.0,Vivienda,Tlalpan
+593,2015.0,12.0,Satisfaccion mínima,Mujer,No especificado,34.0,-243331949549000.0,923331949549000.0,Vivienda,Tlalpan
+594,2015.0,12.0,Estrato medio,Hombre,30-44,17721.0,148591164532000.0,205828835468000.0,Vivienda,Tlalpan
+595,2015.0,12.0,Estrato medio,Hombre,45-59,15070.0,126266216682000.0,175133783318000.0,Vivienda,Tlalpan
+596,2015.0,12.0,Estrato medio,Mujer,0-11,8699.0,697604439778000.0,104219556022000.0,Vivienda,Tlalpan
+597,2015.0,12.0,Estrato medio,Mujer,12-29,20018.0,169460344241000.0,230899655759000.0,Vivienda,Tlalpan
+598,2015.0,12.0,Estrato medio,Mujer,30-44,19385.0,163616781060000.0,224083218940000.0,Vivienda,Tlalpan
+599,2015.0,12.0,Estrato medio,Mujer,No especificado,63.0,-553220888808000.0,181322088881000.0,Vivienda,Tlalpan
+600,2015.0,12.0,Estrato alto,Hombre,60 y mas,11069.0,873326307089000.0,134047369291000.0,Vivienda,Tlalpan
+601,2015.0,12.0,Estrato alto,Mujer,30-44,9280.0,728247774462000.0,112775222554000.0,Vivienda,Tlalpan
+602,2015.0,12.0,Estrato alto,Mujer,45-59,11982.0,974772958581000.0,142162704142000.0,Vivienda,Tlalpan
+603,2015.0,13.0,Pobreza muy alta,Mujer,0-11,15022.0,113292643863000.0,187147356137000.0,Vivienda,Xochimilco
+604,2015.0,13.0,Pobreza muy alta,Mujer,12-29,19103.0,13905416778600.0,24300583221400.0,Vivienda,Xochimilco
+605,2015.0,13.0,Pobreza muy alta,Mujer,30-44,13176.0,960118211776000.0,167508178822000.0,Vivienda,Xochimilco
+606,2015.0,13.0,Pobreza muy alta,Mujer,No especificado,19.0,563490488206000.0,323650951179000.0,Vivienda,Xochimilco
+607,2015.0,13.0,Pobreza alta,Hombre,12-29,7791.0,559062203372000.0,999137796628000.0,Vivienda,Xochimilco
+608,2015.0,13.0,Pobreza alta,Hombre,45-59,3784.0,264448901546000.0,492351098454000.0,Vivienda,Xochimilco
+609,2015.0,13.0,Pobreza moderada,Mujer,30-44,13747.0,959847174809000.0,178955282519000.0,Vivienda,Xochimilco
+610,2015.0,13.0,Pobreza moderada,Mujer,45-59,9381.0,704236383606000.0,117196361639000.0,Vivienda,Xochimilco
+611,2015.0,13.0,Satisfaccion mínima,Hombre,60 y mas,2286.0,159047134643000.0,298152865357000.0,Vivienda,Xochimilco
+612,2015.0,13.0,Satisfaccion mínima,Mujer,12-29,5988.0,371813182439000.0,825786817561000.0,Vivienda,Xochimilco
+613,2015.0,13.0,Estrato medio,Hombre,12-29,10859.0,789827030632000.0,138197296937000.0,Vivienda,Xochimilco
+614,2015.0,13.0,Estrato medio,Hombre,No especificado,44.0,-52444986680000.0,140444986680000.0,Vivienda,Xochimilco
+615,2015.0,13.0,Estrato medio,Mujer,0-11,4057.0,259690799415000.0,551709200585000.0,Vivienda,Xochimilco
+616,2015.0,13.0,Estrato medio,Mujer,45-59,8763.0,661638646019000.0,109096135398000.0,Vivienda,Xochimilco
+617,2015.0,13.0,Estrato alto,Hombre,0-11,1293.0,588853385451000.0,199714661455000.0,Vivienda,Xochimilco
+618,2015.0,13.0,Estrato alto,Mujer,30-44,3695.0,212543348187000.0,526456651813000.0,Vivienda,Xochimilco
+619,2015.0,14.0,Pobreza muy alta,Hombre,45-59,1196.0,502932884949000.0,188906711505000.0,Vivienda,Benito Juárez
+620,2015.0,14.0,Pobreza muy alta,Mujer,0-11,3113.0,125422546154000.0,497177453846000.0,Vivienda,Benito Juárez
+621,2015.0,14.0,Pobreza muy alta,Mujer,12-29,3285.0,180483228889000.0,476516771111000.0,Vivienda,Benito Juárez
+622,2015.0,14.0,Pobreza alta,Hombre,30-44,2106.0,13123371662600.0,28996628337400.0,Vivienda,Benito Juárez
+623,2015.0,14.0,Pobreza alta,Hombre,45-59,1348.0,680547177612000.0,201545282239000.0,Vivienda,Benito Juárez
+624,2015.0,14.0,Pobreza alta,Hombre,60 y mas,714.0,36408987239300.0,106391012761000.0,Vivienda,Benito Juárez
+625,2015.0,14.0,Pobreza moderada,Hombre,0-11,3895.0,213244235457000.0,565755764543000.0,Vivienda,Benito Juárez
+626,2015.0,14.0,Pobreza moderada,Hombre,60 y mas,3946.0,251642137678000.0,537557862322000.0,Vivienda,Benito Juárez
+627,2015.0,14.0,Pobreza moderada,Mujer,12-29,7777.0,497710350246000.0,105768964975000.0,Vivienda,Benito Juárez
+628,2015.0,14.0,Pobreza moderada,Mujer,30-44,7750.0,514738523578000.0,103526147642000.0,Vivienda,Benito Juárez
+629,2015.0,14.0,Satisfaccion mínima,Hombre,12-29,7191.0,458771003341000.0,979428996659000.0,Vivienda,Benito Juárez
+630,2015.0,14.0,Estrato medio,Hombre,12-29,18371.0,152064091963000.0,215355908037000.0,Vivienda,Benito Juárez
+631,2015.0,14.0,Estrato medio,Hombre,45-59,15444.0,126876003976000.0,182003996024000.0,Vivienda,Benito Juárez
+632,2015.0,14.0,Estrato medio,Hombre,60 y mas,10051.0,823416352857000.0,118678364714000.0,Vivienda,Benito Juárez
+633,2015.0,14.0,Estrato medio,Mujer,30-44,22532.0,192409557404000.0,258230442596000.0,Vivienda,Benito Juárez
+634,2015.0,14.0,Estrato medio,Mujer,45-59,17950.0,148358031153000.0,210641968847000.0,Vivienda,Benito Juárez
+635,2015.0,14.0,Estrato alto,Hombre,12-29,7847.0,623897734396000.0,945502265604000.0,Vivienda,Benito Juárez
+636,2015.0,14.0,Estrato alto,Hombre,45-59,11384.0,889908256504000.0,138689174350000.0,Vivienda,Benito Juárez
+637,2015.0,14.0,Estrato alto,Mujer,12-29,8961.0,728746596643000.0,106345340336000.0,Vivienda,Benito Juárez
+638,2015.0,14.0,Estrato alto,Mujer,30-44,16167.0,131821957776000.0,191518042224000.0,Vivienda,Benito Juárez
+639,2015.0,15.0,Pobreza muy alta,Hombre,12-29,9532.0,724877841343000.0,118152215866000.0,Vivienda,Cuauhtémoc
+640,2015.0,15.0,Pobreza muy alta,Hombre,30-44,7172.0,529160671701000.0,905239328299000.0,Vivienda,Cuauhtémoc
+641,2015.0,15.0,Pobreza muy alta,Hombre,45-59,3930.0,253397905617000.0,532602094383000.0,Vivienda,Cuauhtémoc
+642,2015.0,15.0,Pobreza alta,Hombre,0-11,4616.0,345138866810000.0,578061133190000.0,Vivienda,Cuauhtémoc
+643,2015.0,15.0,Pobreza alta,Hombre,30-44,4498.0,350541358019000.0,549058641981000.0,Vivienda,Cuauhtémoc
+644,2015.0,15.0,Pobreza alta,Mujer,30-44,5883.0,444538414575000.0,732061585425000.0,Vivienda,Cuauhtémoc
+645,2015.0,15.0,Pobreza alta,Mujer,45-59,3703.0,266871390280000.0,473728609720000.0,Vivienda,Cuauhtémoc
+646,2015.0,15.0,Pobreza moderada,Hombre,0-11,8588.0,688060598262000.0,102953940174000.0,Vivienda,Cuauhtémoc
+647,2015.0,15.0,Pobreza moderada,Hombre,30-44,11267.0,929604680500000.0,132379531950000.0,Vivienda,Cuauhtémoc
+648,2015.0,15.0,Pobreza moderada,Hombre,45-59,8174.0,66562597007500.0,96917402992500.0,Vivienda,Cuauhtémoc
+649,2015.0,15.0,Pobreza moderada,Hombre,No especificado,12.0,-154446879511000.0,394446879511000.0,Vivienda,Cuauhtémoc
+650,2015.0,15.0,Pobreza moderada,Mujer,30-44,12659.0,104448645945000.0,148731354055000.0,Vivienda,Cuauhtémoc
+651,2015.0,15.0,Pobreza moderada,Mujer,45-59,10196.0,817971274276000.0,122122872572000.0,Vivienda,Cuauhtémoc
+652,2015.0,15.0,Pobreza moderada,Mujer,60 y mas,7451.0,583312936033000.0,906887063967000.0,Vivienda,Cuauhtémoc
+653,2015.0,15.0,Satisfaccion mínima,Hombre,12-29,12077.0,968463573273000.0,144693642673000.0,Vivienda,Cuauhtémoc
+654,2015.0,15.0,Satisfaccion mínima,Mujer,0-11,5266.0,412870341229000.0,640329658771000.0,Vivienda,Cuauhtémoc
+655,2015.0,15.0,Satisfaccion mínima,Mujer,60 y mas,6217.0,488930266823000.0,754469733177000.0,Vivienda,Cuauhtémoc
+656,2015.0,15.0,Satisfaccion mínima,Mujer,No especificado,33.0,-19807200880200.0,85807200880200.0,Vivienda,Cuauhtémoc
+657,2015.0,15.0,Estrato medio,Hombre,0-11,8105.0,644059137376000.0,976940862624000.0,Vivienda,Cuauhtémoc
+658,2015.0,15.0,Estrato medio,Mujer,45-59,18412.0,153780708244000.0,214459291756000.0,Vivienda,Cuauhtémoc
+659,2015.0,15.0,Estrato alto,Hombre,30-44,13690.0,102790158287000.0,171009841713000.0,Vivienda,Cuauhtémoc
+660,2015.0,15.0,Estrato alto,Hombre,No especificado,13.0,-162821049170000.0,422821049170000.0,Vivienda,Cuauhtémoc
+661,2015.0,15.0,Estrato alto,Mujer,12-29,5783.0,412653016834000.0,743946983166000.0,Vivienda,Cuauhtémoc
+662,2015.0,15.0,Estrato alto,Mujer,30-44,10849.0,740833377605000.0,142896662240000.0,Vivienda,Cuauhtémoc
+663,2015.0,15.0,Estrato alto,Mujer,60 y mas,13489.0,106523782227000.0,163256217773000.0,Vivienda,Cuauhtémoc
+664,2015.0,16.0,Pobreza muy alta,Hombre,12-29,3871.0,252838320346000.0,521361679654000.0,Vivienda,Miguel Hidalgo
+665,2015.0,16.0,Pobreza muy alta,Hombre,45-59,2098.0,116478819402000.0,303121180598000.0,Vivienda,Miguel Hidalgo
+666,2015.0,16.0,Pobreza muy alta,Hombre,60 y mas,1366.0,751361501257000.0,198063849874000.0,Vivienda,Miguel Hidalgo
+667,2015.0,16.0,Pobreza muy alta,Mujer,45-59,2152.0,116703967574000.0,313696032426000.0,Vivienda,Miguel Hidalgo
+668,2015.0,16.0,Pobreza alta,Hombre,0-11,2339.0,130492778226000.0,337307221774000.0,Vivienda,Miguel Hidalgo
+669,2015.0,16.0,Pobreza alta,Mujer,12-29,3266.0,194097808337000.0,459102191663000.0,Vivienda,Miguel Hidalgo
+670,2015.0,16.0,Pobreza alta,Mujer,45-59,2105.0,114867366389000.0,306132633611000.0,Vivienda,Miguel Hidalgo
+671,2015.0,16.0,Pobreza moderada,Hombre,30-44,6751.0,475994109397000.0,874205890603000.0,Vivienda,Miguel Hidalgo
+672,2015.0,16.0,Pobreza moderada,Hombre,45-59,4699.0,320888154872000.0,618911845128000.0,Vivienda,Miguel Hidalgo
+673,2015.0,16.0,Satisfaccion mínima,Mujer,0-11,3169.0,162466912167000.0,471333087833000.0,Vivienda,Miguel Hidalgo
+674,2015.0,16.0,Satisfaccion mínima,Mujer,30-44,5795.0,339838298700000.0,819161701300000.0,Vivienda,Miguel Hidalgo
+675,2015.0,16.0,Satisfaccion mínima,Mujer,No especificado,63.0,-34630208543200.0,160630208543000.0,Vivienda,Miguel Hidalgo
+676,2015.0,16.0,Estrato medio,Hombre,30-44,15152.0,925173716799000.0,210522628320000.0,Vivienda,Miguel Hidalgo
+677,2015.0,16.0,Estrato medio,Hombre,45-59,9881.0,717134878938000.0,12590651210600.0,Vivienda,Miguel Hidalgo
+678,2015.0,16.0,Estrato medio,Hombre,No especificado,105.0,-293163400327000.0,239316340033000.0,Vivienda,Miguel Hidalgo
+679,2015.0,16.0,Estrato medio,Mujer,0-11,8444.0,487474018689000.0,120132598131000.0,Vivienda,Miguel Hidalgo
+680,2015.0,16.0,Estrato medio,Mujer,12-29,14104.0,93963873112000.0,188116126888000.0,Vivienda,Miguel Hidalgo
+681,2015.0,16.0,Estrato medio,Mujer,45-59,11561.0,844027339242000.0,146817266076000.0,Vivienda,Miguel Hidalgo
+682,2015.0,16.0,Estrato alto,Hombre,12-29,6894.0,466021265974000.0,912778734026000.0,Vivienda,Miguel Hidalgo
+683,2015.0,16.0,Estrato alto,Hombre,30-44,11213.0,71062416176700.0,153197583823000.0,Vivienda,Miguel Hidalgo
+684,2015.0,16.0,Estrato alto,Mujer,0-11,2065.0,116545531432000.0,296454468568000.0,Vivienda,Miguel Hidalgo
+685,2015.0,16.0,Estrato alto,Mujer,30-44,11265.0,761159267160000.0,14918407328400.0,Vivienda,Miguel Hidalgo
+686,2015.0,16.0,Estrato alto,Mujer,60 y mas,14224.0,109185538871000.0,175294461129000.0,Vivienda,Miguel Hidalgo
+687,2015.0,17.0,Pobreza muy alta,Hombre,0-11,7594.0,548986747341000.0,969813252659000.0,Vivienda,Venustiano Carranza
+688,2015.0,17.0,Pobreza muy alta,Hombre,12-29,9353.0,691258268151000.0,117934173185000.0,Vivienda,Venustiano Carranza
+689,2015.0,17.0,Pobreza muy alta,Hombre,45-59,3902.0,270138371412000.0,510261628588000.0,Vivienda,Venustiano Carranza
+690,2015.0,17.0,Pobreza muy alta,Mujer,30-44,7610.0,58618194884800.0,93581805115200.0,Vivienda,Venustiano Carranza
+691,2015.0,17.0,Pobreza muy alta,Mujer,45-59,4510.0,319359278419000.0,582640721581000.0,Vivienda,Venustiano Carranza
+692,2015.0,17.0,Pobreza alta,Hombre,60 y mas,2072.0,137226798318000.0,277173201682000.0,Vivienda,Venustiano Carranza
+693,2015.0,17.0,Pobreza alta,Mujer,0-11,4791.0,348709682074000.0,609490317926000.0,Vivienda,Venustiano Carranza
+694,2015.0,17.0,Pobreza alta,Mujer,30-44,6547.0,491237403787000.0,818162596213000.0,Vivienda,Venustiano Carranza
+695,2015.0,17.0,Pobreza moderada,Hombre,12-29,13430.0,108814252432000.0,159785747568000.0,Vivienda,Venustiano Carranza
+696,2015.0,17.0,Pobreza moderada,Hombre,45-59,8706.0,722572055574000.0,101862794443000.0,Vivienda,Venustiano Carranza
+697,2015.0,17.0,Satisfaccion mínima,Hombre,30-44,7247.0,562747466036000.0,886652533964000.0,Vivienda,Venustiano Carranza
+698,2015.0,17.0,Satisfaccion mínima,Hombre,60 y mas,3324.0,256817916178000.0,407982083822000.0,Vivienda,Venustiano Carranza
+699,2015.0,17.0,Satisfaccion mínima,Mujer,0-11,3612.0,246775019669000.0,475624980331000.0,Vivienda,Venustiano Carranza
+700,2015.0,17.0,Satisfaccion mínima,Mujer,12-29,7578.0,577819146236000.0,937780853764000.0,Vivienda,Venustiano Carranza
+701,2015.0,17.0,Satisfaccion mínima,Mujer,60 y mas,5827.0,464686677248000.0,700713322752000.0,Vivienda,Venustiano Carranza
+702,2015.0,17.0,Estrato medio,Hombre,0-11,5416.0,394569422423000.0,688630577577000.0,Vivienda,Venustiano Carranza
+703,2015.0,17.0,Estrato medio,Hombre,30-44,11122.0,883405530465000.0,134099446953000.0,Vivienda,Venustiano Carranza
+704,2015.0,17.0,Estrato medio,Mujer,30-44,13119.0,106201435298000.0,156178564702000.0,Vivienda,Venustiano Carranza
+705,2015.0,17.0,Estrato medio,Mujer,45-59,12930.0,109238600498000.0,149361399502000.0,Vivienda,Venustiano Carranza
+706,2015.0,17.0,Estrato medio,Mujer,60 y mas,12276.0,10229763355000.0,14322236645000.0,Vivienda,Venustiano Carranza
+707,2015.0,17.0,Estrato alto,Hombre,12-29,4133.0,280416481405000.0,546183518595000.0,Vivienda,Venustiano Carranza
+708,2015.0,17.0,Estrato alto,Mujer,30-44,4827.0,336246049312000.0,629153950688000.0,Vivienda,Venustiano Carranza
+709,2015.0,2.0,Pobreza muy alta,Hombre,60 y mas,1500.0,862979261981000.0,213702073802000.0,Vivienda,Azcapotzalco
+710,2015.0,2.0,Pobreza muy alta,Mujer,60 y mas,2454.0,145923464120000.0,344876535880000.0,Vivienda,Azcapotzalco
+711,2015.0,2.0,Pobreza alta,Hombre,12-29,5795.0,329252660876000.0,829747339124000.0,Vivienda,Azcapotzalco
+712,2015.0,2.0,Pobreza alta,Hombre,60 y mas,1566.0,91097964093200.0,222102035907000.0,Vivienda,Azcapotzalco
+713,2015.0,2.0,Pobreza alta,Mujer,0-11,3345.0,176356868551000.0,492643131449000.0,Vivienda,Azcapotzalco
+714,2015.0,2.0,Pobreza moderada,Hombre,12-29,11506.0,931468153954000.0,136973184605000.0,Vivienda,Azcapotzalco
+715,2015.0,2.0,Pobreza moderada,Hombre,30-44,8331.0,664093016605000.0,100210698339000.0,Vivienda,Azcapotzalco
+716,2015.0,2.0,Pobreza moderada,Mujer,0-11,6667.0,518478632837000.0,814921367163000.0,Vivienda,Azcapotzalco
+717,2015.0,2.0,Pobreza moderada,Mujer,12-29,11484.0,939563913588000.0,135723608641000.0,Vivienda,Azcapotzalco
+718,2015.0,2.0,Pobreza moderada,Mujer,45-59,8775.0,667091468970000.0,108790853103000.0,Vivienda,Azcapotzalco
+719,2015.0,2.0,Satisfaccion mínima,Hombre,0-11,4626.0,337730488461000.0,587469511539000.0,Vivienda,Azcapotzalco
+720,2015.0,2.0,Satisfaccion mínima,Hombre,12-29,8833.0,72341414602900.0,104318585397000.0,Vivienda,Azcapotzalco
+721,2015.0,2.0,Satisfaccion mínima,Hombre,30-44,6630.0,519593125592000.0,806406874408000.0,Vivienda,Azcapotzalco
+722,2015.0,2.0,Satisfaccion mínima,Hombre,60 y mas,3932.0,244755255452000.0,541644744548000.0,Vivienda,Azcapotzalco
+723,2015.0,2.0,Satisfaccion mínima,Hombre,No especificado,35.0,-28361162873100.0,98361162873100.0,Vivienda,Azcapotzalco
+724,2015.0,2.0,Estrato medio,Hombre,12-29,13772.0,11525016686100.0,16018983313900.0,Vivienda,Azcapotzalco
+725,2015.0,2.0,Estrato medio,Hombre,60 y mas,9428.0,786541108390000.0,109905889161000.0,Vivienda,Azcapotzalco
+726,2015.0,2.0,Estrato medio,Mujer,30-44,14441.0,121142713067000.0,167677286933000.0,Vivienda,Azcapotzalco
+727,2015.0,2.0,Estrato medio,Mujer,60 y mas,12797.0,109552751551000.0,146387248449000.0,Vivienda,Azcapotzalco
+728,2015.0,2.0,Estrato alto,Hombre,0-11,976.0,422192741152000.0,152980725885000.0,Vivienda,Azcapotzalco
+729,2015.0,2.0,Estrato alto,Mujer,30-44,4542.0,32869285933200.0,57970714066800.0,Vivienda,Azcapotzalco
+730,2015.0,3.0,Pobreza muy alta,Hombre,30-44,8171.0,640077536015000.0,994122463985000.0,Vivienda,Coyoacán
+731,2015.0,3.0,Pobreza muy alta,Hombre,60 y mas,2001.0,139774467357000.0,260425532643000.0,Vivienda,Coyoacán
+732,2015.0,3.0,Pobreza muy alta,Hombre,No especificado,119.0,115638260282000.0,226436173972000.0,Vivienda,Coyoacán
+733,2015.0,3.0,Pobreza muy alta,Mujer,0-11,8130.0,605691745916000.0,102030825408000.0,Vivienda,Coyoacán
+734,2015.0,3.0,Pobreza muy alta,Mujer,12-29,12690.0,982855833473000.0,155514416653000.0,Vivienda,Coyoacán
+735,2015.0,3.0,Pobreza muy alta,Mujer,30-44,8772.0,671946321405000.0,108245367860000.0,Vivienda,Coyoacán
+736,2015.0,3.0,Pobreza alta,Hombre,0-11,4430.0,318759402130000.0,567240597870000.0,Vivienda,Coyoacán
+737,2015.0,3.0,Pobreza alta,Hombre,30-44,5124.0,392330497736000.0,632469502264000.0,Vivienda,Coyoacán
+738,2015.0,3.0,Pobreza alta,Mujer,12-29,7244.0,520530886842000.0,928269113158000.0,Vivienda,Coyoacán
+739,2015.0,3.0,Pobreza moderada,Hombre,0-11,7532.0,61982229851200.0,88657770148800.0,Vivienda,Coyoacán
+740,2015.0,3.0,Pobreza moderada,Mujer,0-11,8001.0,647787797394000.0,952412202606000.0,Vivienda,Coyoacán
+741,2015.0,3.0,Satisfaccion mínima,Mujer,12-29,9541.0,813462112888000.0,109473788711000.0,Vivienda,Coyoacán
+742,2015.0,3.0,Satisfaccion mínima,Mujer,30-44,9408.0,787843451152000.0,109375654885000.0,Vivienda,Coyoacán
+743,2015.0,3.0,Estrato medio,Hombre,0-11,10139.0,836770551956000.0,119102944804000.0,Vivienda,Coyoacán
+744,2015.0,3.0,Estrato medio,Hombre,12-29,24348.0,209654972709000.0,277305027291000.0,Vivienda,Coyoacán
+745,2015.0,3.0,Estrato medio,Mujer,30-44,23586.0,20541200194300.0,26630799805700.0,Vivienda,Coyoacán
+746,2015.0,3.0,Estrato medio,Mujer,60 y mas,19896.0,171889488028000.0,226030511972000.0,Vivienda,Coyoacán
+747,2015.0,3.0,Estrato medio,Mujer,No especificado,152.0,246901645107000.0,301530983549000.0,Vivienda,Coyoacán
+748,2015.0,3.0,Estrato alto,Hombre,0-11,2681.0,180942623002000.0,355257376998000.0,Vivienda,Coyoacán
+749,2015.0,3.0,Estrato alto,Hombre,12-29,9405.0,721267344383000.0,115973265562000.0,Vivienda,Coyoacán
+750,2015.0,3.0,Estrato alto,Hombre,60 y mas,15450.0,127162352274000.0,181837647726000.0,Vivienda,Coyoacán
+751,2015.0,3.0,Estrato alto,Hombre,No especificado,511.0,-301612314872000.0,105216123149000.0,Vivienda,Coyoacán
+752,2015.0,3.0,Estrato alto,Mujer,0-11,2342.0,180483925144000.0,287916074856000.0,Vivienda,Coyoacán
+753,2015.0,3.0,Estrato alto,Mujer,30-44,12769.0,987646258163000.0,156615374184000.0,Vivienda,Coyoacán
+754,2015.0,4.0,Pobreza muy alta,Hombre,0-11,5587.0,400038490620000.0,717361509380000.0,Vivienda,Cuajimalpa de Morelos
+755,2015.0,4.0,Pobreza muy alta,Hombre,45-59,2085.0,156621163021000.0,260378836979000.0,Vivienda,Cuajimalpa de Morelos
+756,2015.0,4.0,Pobreza muy alta,Mujer,12-29,6905.0,475808579535000.0,905191420465000.0,Vivienda,Cuajimalpa de Morelos
+757,2015.0,4.0,Pobreza muy alta,Mujer,60 y mas,1018.0,578411114670000.0,145758888533000.0,Vivienda,Cuajimalpa de Morelos
+758,2015.0,4.0,Pobreza alta,Mujer,0-11,2146.0,129824587793000.0,299375412207000.0,Vivienda,Cuajimalpa de Morelos
+759,2015.0,4.0,Pobreza alta,Mujer,30-44,2615.0,162150528977000.0,360849471023000.0,Vivienda,Cuajimalpa de Morelos
+760,2015.0,4.0,Pobreza alta,Mujer,45-59,1725.0,121118185771000.0,223881814229000.0,Vivienda,Cuajimalpa de Morelos
+761,2015.0,4.0,Pobreza moderada,Mujer,12-29,5639.0,432648928847000.0,695151071153000.0,Vivienda,Cuajimalpa de Morelos
+762,2015.0,4.0,Pobreza moderada,Mujer,30-44,4292.0,33539773161500.0,52300226838500.0,Vivienda,Cuajimalpa de Morelos
+763,2015.0,4.0,Satisfaccion mínima,Hombre,45-59,1553.0,915406110766000.0,219059388923000.0,Vivienda,Cuajimalpa de Morelos
+764,2015.0,4.0,Satisfaccion mínima,Mujer,45-59,1326.0,76725749047400.0,188474250953000.0,Vivienda,Cuajimalpa de Morelos
+765,2015.0,4.0,Satisfaccion mínima,Mujer,60 y mas,936.0,582621157713000.0,128937884229000.0,Vivienda,Cuajimalpa de Morelos
+766,2015.0,4.0,Estrato medio,Hombre,0-11,3262.0,212041913558000.0,440358086442000.0,Vivienda,Cuajimalpa de Morelos
+767,2015.0,4.0,Estrato medio,Hombre,12-29,6593.0,448221263554000.0,870378736446000.0,Vivienda,Cuajimalpa de Morelos
+768,2015.0,4.0,Estrato medio,Hombre,60 y mas,1924.0,133031681395000.0,251768318605000.0,Vivienda,Cuajimalpa de Morelos
+769,2015.0,4.0,Estrato medio,Mujer,30-44,5665.0,390226501936000.0,742773498064000.0,Vivienda,Cuajimalpa de Morelos
+770,2015.0,4.0,Estrato medio,Mujer,45-59,4987.0,34648019717500.0,65091980282500.0,Vivienda,Cuajimalpa de Morelos
+771,2015.0,4.0,Estrato medio,Mujer,60 y mas,2144.0,141443844939000.0,287356155061000.0,Vivienda,Cuajimalpa de Morelos
+772,2015.0,4.0,Estrato alto,Hombre,30-44,5228.0,239824938210000.0,805775061790000.0,Vivienda,Cuajimalpa de Morelos
+773,2015.0,5.0,Pobreza muy alta,Hombre,12-29,32266.0,269974708869000.0,375345291131000.0,Vivienda,Gustavo A. Madero
+774,2015.0,5.0,Pobreza muy alta,Hombre,60 y mas,5118.0,404778565999000.0,618821434001000.0,Vivienda,Gustavo A. Madero
+775,2015.0,5.0,Pobreza muy alta,Hombre,No especificado,20.0,-234136566064000.0,634136566064000.0,Vivienda,Gustavo A. Madero
+776,2015.0,5.0,Pobreza muy alta,Mujer,60 y mas,6106.0,463203848586000.0,757996151414000.0,Vivienda,Gustavo A. Madero
+777,2015.0,5.0,Pobreza muy alta,Mujer,No especificado,102.0,-271853410633000.0,231185341063000.0,Vivienda,Gustavo A. Madero
+778,2015.0,5.0,Pobreza alta,Hombre,12-29,18138.0,151352437623000.0,211407562377000.0,Vivienda,Gustavo A. Madero
+779,2015.0,5.0,Pobreza alta,Hombre,45-59,9603.0,792922820451000.0,112767717955000.0,Vivienda,Gustavo A. Madero
+780,2015.0,5.0,Pobreza alta,Mujer,0-11,12410.0,102351125420000.0,145848874580000.0,Vivienda,Gustavo A. Madero
+781,2015.0,5.0,Pobreza alta,Mujer,12-29,20095.0,169127239245000.0,232772760755000.0,Vivienda,Gustavo A. Madero
+782,2015.0,5.0,Pobreza moderada,Hombre,45-59,21554.0,18773249169200.0,24334750830800.0,Vivienda,Gustavo A. Madero
+783,2015.0,5.0,Pobreza moderada,Mujer,0-11,22562.0,186732307295000.0,264507692705000.0,Vivienda,Gustavo A. Madero
+784,2015.0,5.0,Pobreza moderada,Mujer,12-29,38562.0,327818140004000.0,443421859996000.0,Vivienda,Gustavo A. Madero
+785,2015.0,5.0,Pobreza moderada,Mujer,30-44,32037.0,273795756283000.0,366944243717000.0,Vivienda,Gustavo A. Madero
+786,2015.0,5.0,Pobreza moderada,Mujer,60 y mas,19692.0,171524307054000.0,222315692946000.0,Vivienda,Gustavo A. Madero
+787,2015.0,5.0,Pobreza moderada,Mujer,No especificado,88.0,-453824542205000.0,221382454221000.0,Vivienda,Gustavo A. Madero
+788,2015.0,5.0,Satisfaccion mínima,Hombre,45-59,13398.0,117954595014000.0,150005404986000.0,Vivienda,Gustavo A. Madero
+789,2015.0,5.0,Satisfaccion mínima,Hombre,60 y mas,9617.0,799419170261000.0,112398082974000.0,Vivienda,Gustavo A. Madero
+790,2015.0,5.0,Satisfaccion mínima,Hombre,No especificado,28.0,-351393741590000.0,911393741590000.0,Vivienda,Gustavo A. Madero
+791,2015.0,5.0,Satisfaccion mínima,Mujer,0-11,10401.0,875004850483000.0,120519514952000.0,Vivienda,Gustavo A. Madero
+792,2015.0,5.0,Satisfaccion mínima,Mujer,60 y mas,13304.0,113315361687000.0,152764638313000.0,Vivienda,Gustavo A. Madero
+793,2015.0,5.0,Estrato medio,Hombre,0-11,14586.0,122204642875000.0,169515357125000.0,Vivienda,Gustavo A. Madero
+794,2015.0,5.0,Estrato medio,Hombre,45-59,29000.0,252662262038000.0,327337737962000.0,Vivienda,Gustavo A. Madero
+795,2015.0,5.0,Estrato medio,Hombre,No especificado,84.0,-348230498980000.0,202823049898000.0,Vivienda,Gustavo A. Madero
+796,2015.0,5.0,Estrato medio,Mujer,45-59,35670.0,314489673592000.0,398910326408000.0,Vivienda,Gustavo A. Madero
+797,2015.0,5.0,Estrato alto,Hombre,0-11,2245.0,1540471331270.0,2949528668730.0,Vivienda,Gustavo A. Madero
+798,2015.0,5.0,Estrato alto,Mujer,0-11,1821.0,127556053975000.0,236643946025000.0,Vivienda,Gustavo A. Madero
+799,2015.0,5.0,Estrato alto,Mujer,12-29,9862.0,817405110054000.0,115499488995000.0,Vivienda,Gustavo A. Madero
+800,2015.0,5.0,Estrato alto,Mujer,30-44,11445.0,948191715463000.0,134080828454000.0,Vivienda,Gustavo A. Madero
+801,2015.0,6.0,Pobreza muy alta,Hombre,30-44,5046.0,349602947018000.0,659597052982000.0,Vivienda,Iztacalco
+802,2015.0,6.0,Pobreza muy alta,Hombre,45-59,3271.0,207420121368000.0,446779878632000.0,Vivienda,Iztacalco
+803,2015.0,6.0,Pobreza muy alta,Mujer,0-11,6204.0,440132826699000.0,800667173301000.0,Vivienda,Iztacalco
+804,2015.0,6.0,Pobreza muy alta,Mujer,30-44,6006.0,429749281593000.0,771450718407000.0,Vivienda,Iztacalco
+805,2015.0,6.0,Pobreza muy alta,Mujer,60 y mas,1749.0,896994760735000.0,260100523926000.0,Vivienda,Iztacalco
+806,2015.0,6.0,Pobreza muy alta,Mujer,No especificado,157.0,-176357651575000.0,490357651575000.0,Vivienda,Iztacalco
+807,2015.0,6.0,Pobreza alta,Hombre,12-29,5028.0,361982389073000.0,643617610927000.0,Vivienda,Iztacalco
+808,2015.0,6.0,Pobreza alta,Hombre,60 y mas,1491.0,910741790604000.0,207125820940000.0,Vivienda,Iztacalco
+809,2015.0,6.0,Pobreza alta,Mujer,12-29,5975.0,388370052867000.0,806629947133000.0,Vivienda,Iztacalco
+810,2015.0,6.0,Pobreza alta,Mujer,45-59,3086.0,214837088857000.0,402362911143000.0,Vivienda,Iztacalco
+811,2015.0,6.0,Pobreza alta,Mujer,60 y mas,1797.0,953957618972000.0,264004238103000.0,Vivienda,Iztacalco
+812,2015.0,6.0,Pobreza moderada,Hombre,30-44,9943.0,779144098837000.0,120945590116000.0,Vivienda,Iztacalco
+813,2015.0,6.0,Pobreza moderada,Hombre,45-59,7815.0,605423519197000.0,957576480803000.0,Vivienda,Iztacalco
+814,2015.0,6.0,Pobreza moderada,Hombre,No especificado,92.0,-123422574883000.0,307422574883000.0,Vivienda,Iztacalco
+815,2015.0,6.0,Pobreza moderada,Mujer,12-29,14424.0,115335817601000.0,173144182399000.0,Vivienda,Iztacalco
+816,2015.0,6.0,Pobreza moderada,Mujer,60 y mas,5658.0,439286411581000.0,692313588419000.0,Vivienda,Iztacalco
+817,2015.0,6.0,Satisfaccion mínima,Hombre,60 y mas,2861.0,205772515068000.0,366427484932000.0,Vivienda,Iztacalco
+818,2015.0,6.0,Satisfaccion mínima,Hombre,No especificado,48.0,-42316040323000.0,138316040323000.0,Vivienda,Iztacalco
+819,2015.0,6.0,Satisfaccion mínima,Mujer,12-29,8331.0,615811951534000.0,10503880484700.0,Vivienda,Iztacalco
+820,2015.0,6.0,Estrato medio,Hombre,0-11,4909.0,364066048621000.0,617733951379000.0,Vivienda,Iztacalco
+821,2015.0,6.0,Estrato medio,Mujer,0-11,5532.0,412340667328000.0,694059332672000.0,Vivienda,Iztacalco
+822,2015.0,6.0,Estrato medio,Mujer,No especificado,33.0,-389140471631000.0,104914047163000.0,Vivienda,Iztacalco
+823,2015.0,6.0,Estrato alto,Mujer,60 y mas,8291.0,642368735486000.0,101583126451000.0,Vivienda,Iztacalco
+824,2015.0,7.0,Pobreza muy alta,Hombre,0-11,58240.0,497770444180000.0,667029555820000.0,Vivienda,Iztapalapa
+825,2015.0,7.0,Pobreza muy alta,Hombre,12-29,64499.0,545922772184000.0,744057227816000.0,Vivienda,Iztapalapa
+826,2015.0,7.0,Pobreza muy alta,Hombre,30-44,40899.0,346837282176000.0,471142717824000.0,Vivienda,Iztapalapa
+827,2015.0,7.0,Pobreza muy alta,Hombre,No especificado,92.0,32746078670700.0,180725392133000.0,Vivienda,Iztapalapa
+828,2015.0,7.0,Pobreza muy alta,Mujer,0-11,51028.0,437419906100000.0,583140093900000.0,Vivienda,Iztapalapa
+829,2015.0,7.0,Pobreza muy alta,Mujer,12-29,68434.0,593170296357000.0,775509703643000.0,Vivienda,Iztapalapa
+830,2015.0,7.0,Pobreza muy alta,Mujer,30-44,47599.0,40426900333200.0,54771099666800.0,Vivienda,Iztapalapa
+831,2015.0,7.0,Pobreza muy alta,Mujer,60 y mas,11051.0,939933060960000.0,12702669390400.0,Vivienda,Iztapalapa
+832,2015.0,7.0,Pobreza muy alta,Mujer,No especificado,126.0,867094903885000.0,24332905096100.0,Vivienda,Iztapalapa
+833,2015.0,7.0,Pobreza alta,Hombre,45-59,16846.0,148885743882000.0,188034256118000.0,Vivienda,Iztapalapa
+834,2015.0,7.0,Pobreza alta,Hombre,60 y mas,9451.0,821598800234000.0,106860119977000.0,Vivienda,Iztapalapa
+835,2015.0,7.0,Pobreza alta,Hombre,No especificado,30.0,-420200943893000.0,102020094389000.0,Vivienda,Iztapalapa
+836,2015.0,7.0,Pobreza alta,Mujer,12-29,40115.0,35556088688600.0,44673911311400.0,Vivienda,Iztapalapa
+837,2015.0,7.0,Pobreza alta,Mujer,30-44,29115.0,259181701610000.0,323118298390000.0,Vivienda,Iztapalapa
+838,2015.0,7.0,Pobreza alta,Mujer,60 y mas,10509.0,913096330473000.0,118870366953000.0,Vivienda,Iztapalapa
+839,2015.0,7.0,Pobreza alta,Mujer,No especificado,65.0,-209170840966000.0,150917084097000.0,Vivienda,Iztapalapa
+840,2015.0,7.0,Pobreza moderada,Hombre,12-29,72627.0,66732771825000.0,78521228175000.0,Vivienda,Iztapalapa
+841,2015.0,7.0,Pobreza moderada,Hombre,No especificado,321.0,784127826800000.0,56358721732000.0,Vivienda,Iztapalapa
+842,2015.0,7.0,Pobreza moderada,Mujer,12-29,72875.0,663947526315000.0,793552473685000.0,Vivienda,Iztapalapa
+843,2015.0,7.0,Satisfaccion mínima,Hombre,0-11,16968.0,146497485646000.0,192862514354000.0,Vivienda,Iztapalapa
+844,2015.0,7.0,Satisfaccion mínima,Hombre,12-29,32120.0,282869193140000.0,359530806860000.0,Vivienda,Iztapalapa
+845,2015.0,7.0,Satisfaccion mínima,Hombre,45-59,20548.0,179634166514000.0,231325833486000.0,Vivienda,Iztapalapa
+846,2015.0,7.0,Satisfaccion mínima,Hombre,No especificado,23.0,-124001151135000.0,584001151135000.0,Vivienda,Iztapalapa
+847,2015.0,7.0,Satisfaccion mínima,Mujer,0-11,16145.0,141972562000000.0,180927438000000.0,Vivienda,Iztapalapa
+848,2015.0,7.0,Satisfaccion mínima,Mujer,12-29,31542.0,280814934274000.0,350025065726000.0,Vivienda,Iztapalapa
+849,2015.0,7.0,Satisfaccion mínima,Mujer,45-59,23547.0,205752494595000.0,265187505405000.0,Vivienda,Iztapalapa
+850,2015.0,7.0,Estrato medio,Hombre,No especificado,25.0,-214893789578000.0,714893789578000.0,Vivienda,Iztapalapa
+851,2015.0,7.0,Estrato medio,Mujer,0-11,18338.0,160152198229000.0,206607801771000.0,Vivienda,Iztapalapa
+852,2015.0,7.0,Estrato medio,Mujer,12-29,47933.0,433111964112000.0,525548035888000.0,Vivienda,Iztapalapa
+853,2015.0,7.0,Estrato medio,Mujer,45-59,45142.0,397405442969000.0,505434557031000.0,Vivienda,Iztapalapa
+854,2015.0,7.0,Estrato alto,Hombre,0-11,2931.0,215027553464000.0,371172446536000.0,Vivienda,Iztapalapa
+855,2015.0,7.0,Estrato alto,Hombre,No especificado,112.0,-304705020135000.0,254470502014000.0,Vivienda,Iztapalapa
+856,2015.0,7.0,Estrato alto,Mujer,12-29,9256.0,751331278343000.0,109986872166000.0,Vivienda,Iztapalapa
+857,2015.0,7.0,Estrato alto,Mujer,30-44,13612.0,115801853772000.0,156438146228000.0,Vivienda,Iztapalapa
+858,2015.0,7.0,Estrato alto,Mujer,60 y mas,22913.0,192734568066000.0,265525431934000.0,Vivienda,Iztapalapa
+859,2015.0,7.0,Estrato alto,Mujer,No especificado,89.0,-702646035976000.0,248264603598000.0,Vivienda,Iztapalapa
+860,2015.0,8.0,Pobreza muy alta,Hombre,45-59,3324.0,249882545299000.0,414917454701000.0,Vivienda,La Magdalena Contreras
+861,2015.0,8.0,Pobreza muy alta,Hombre,No especificado,37.0,-197768555031000.0,937768555031000.0,Vivienda,La Magdalena Contreras
+862,2015.0,8.0,Pobreza muy alta,Mujer,0-11,8552.0,644181117278000.0,106621888272000.0,Vivienda,La Magdalena Contreras
+863,2015.0,8.0,Pobreza muy alta,Mujer,45-59,4388.0,342408518793000.0,535191481207000.0,Vivienda,La Magdalena Contreras
+864,2015.0,8.0,Pobreza muy alta,Mujer,60 y mas,1789.0,126650822429000.0,231149177571000.0,Vivienda,La Magdalena Contreras
+865,2015.0,8.0,Pobreza muy alta,Mujer,No especificado,51.0,-13863049429700.0,115863049430000.0,Vivienda,La Magdalena Contreras
+866,2015.0,8.0,Pobreza alta,Hombre,0-11,2900.0,183707199342000.0,396292800658000.0,Vivienda,La Magdalena Contreras
+867,2015.0,8.0,Pobreza moderada,Hombre,12-29,8784.0,667824819816000.0,108897518018000.0,Vivienda,La Magdalena Contreras
+868,2015.0,8.0,Pobreza moderada,Hombre,45-59,5103.0,395738803828000.0,624861196172000.0,Vivienda,La Magdalena Contreras
+869,2015.0,8.0,Satisfaccion mínima,Hombre,12-29,3321.0,254547999571000.0,409652000429000.0,Vivienda,La Magdalena Contreras
+870,2015.0,8.0,Satisfaccion mínima,Hombre,45-59,2305.0,178057627903000.0,282942372097000.0,Vivienda,La Magdalena Contreras
+871,2015.0,8.0,Satisfaccion mínima,Hombre,No especificado,9.0,-112586709954000.0,292586709954000.0,Vivienda,La Magdalena Contreras
+872,2015.0,8.0,Satisfaccion mínima,Mujer,30-44,2561.0,204024660004000.0,308175339996000.0,Vivienda,La Magdalena Contreras
+873,2015.0,8.0,Satisfaccion mínima,Mujer,45-59,2541.0,19365940500300.0,31454059499700.0,Vivienda,La Magdalena Contreras
+874,2015.0,8.0,Satisfaccion mínima,Mujer,60 y mas,1596.0,114148378058000.0,205051621942000.0,Vivienda,La Magdalena Contreras
+875,2015.0,8.0,Estrato medio,Mujer,60 y mas,3982.0,303431992584000.0,492968007416000.0,Vivienda,La Magdalena Contreras
+876,2015.0,8.0,Estrato alto,Mujer,0-11,796.0,395192106119000.0,119680789388000.0,Vivienda,La Magdalena Contreras
+877,2015.0,8.0,Estrato alto,Mujer,30-44,2300.0,163638110081000.0,296361889919000.0,Vivienda,La Magdalena Contreras
+878,2015.0,8.0,Estrato alto,Mujer,No especificado,11.0,-150684971430000.0,370684971430000.0,Vivienda,La Magdalena Contreras
+879,2015.0,9.0,Pobreza muy alta,Hombre,30-44,4848.0,345688921867000.0,623911078133000.0,Vivienda,Milpa Alta
+880,2015.0,9.0,Pobreza muy alta,Hombre,60 y mas,1002.0,589598975612000.0,141440102439000.0,Vivienda,Milpa Alta
+881,2015.0,9.0,Pobreza muy alta,Mujer,0-11,6567.0,477424395451000.0,835975604549000.0,Vivienda,Milpa Alta
+882,2015.0,9.0,Pobreza muy alta,Mujer,12-29,8294.0,603214752918000.0,105558524708000.0,Vivienda,Milpa Alta
+883,2015.0,9.0,Pobreza muy alta,Mujer,45-59,2306.0,161057219768000.0,300142780232000.0,Vivienda,Milpa Alta
+884,2015.0,9.0,Pobreza alta,Mujer,0-11,2348.0,150050635042000.0,319549364958000.0,Vivienda,Milpa Alta
+885,2015.0,9.0,Pobreza alta,Mujer,12-29,3442.0,217625739156000.0,470774260844000.0,Vivienda,Milpa Alta
+886,2015.0,9.0,Pobreza alta,Mujer,45-59,1689.0,113655794757000.0,224144205243000.0,Vivienda,Milpa Alta
+887,2015.0,9.0,Pobreza moderada,Hombre,0-11,3497.0,221834227956000.0,477565772044000.0,Vivienda,Milpa Alta
+888,2015.0,9.0,Pobreza moderada,Hombre,30-44,3963.0,280599276682000.0,512000723318000.0,Vivienda,Milpa Alta
+889,2015.0,9.0,Pobreza moderada,Mujer,30-44,4496.0,320396713088000.0,578803286912000.0,Vivienda,Milpa Alta
+890,2015.0,9.0,Satisfaccion mínima,Hombre,0-11,885.0,507034127929000.0,126296587207000.0,Vivienda,Milpa Alta
+891,2015.0,9.0,Satisfaccion mínima,Hombre,30-44,1649.0,912336045461000.0,238566395454000.0,Vivienda,Milpa Alta
+892,2015.0,9.0,Satisfaccion mínima,Mujer,30-44,1867.0,111679381817000.0,261720618183000.0,Vivienda,Milpa Alta
+893,2015.0,9.0,Satisfaccion mínima,Mujer,No especificado,7.0,-980468869085000.0,238046886908000.0,Vivienda,Milpa Alta
+894,2015.0,9.0,Estrato medio,Hombre,45-59,1523.0,973682896736000.0,207231710326000.0,Vivienda,Milpa Alta
+895,2015.0,9.0,Estrato medio,Hombre,No especificado,14.0,-571958856474000.0,33719588564700.0,Vivienda,Milpa Alta
+896,2015.0,9.0,Estrato medio,Mujer,12-29,2094.0,135608380690000.0,283191619310000.0,Vivienda,Milpa Alta
+897,2015.0,9.0,Estrato medio,Mujer,45-59,2061.0,127404361217000.0,284795638783000.0,Vivienda,Milpa Alta
+898,2015.0,9.0,Estrato medio,Mujer,60 y mas,1113.0,703959325526000.0,152204067447000.0,Vivienda,Milpa Alta
+899,2015.0,9.0,Estrato alto,Hombre,30-44,562.0,286754164863000.0,837245835137000.0,Vivienda,Milpa Alta
+900,2015.0,9.0,Estrato alto,Hombre,45-59,696.0,372218359964000.0,101978164004000.0,Vivienda,Milpa Alta
+901,2015.0,10.0,Pobreza muy alta,Hombre,0-11,18069.0,15109281372700.0,21028718627300.0,Vivienda,Álvaro Obregón
+902,2015.0,10.0,Pobreza muy alta,Mujer,0-11,18701.0,148834024090000.0,225185975910000.0,Vivienda,Álvaro Obregón
+903,2015.0,10.0,Pobreza muy alta,Mujer,30-44,17573.0,135747705044000.0,215712294956000.0,Vivienda,Álvaro Obregón
+904,2015.0,10.0,Pobreza muy alta,Mujer,45-59,8377.0,628916970620000.0,104648302938000.0,Vivienda,Álvaro Obregón
+905,2015.0,10.0,Pobreza muy alta,Mujer,60 y mas,4608.0,338205454514000.0,583394545486000.0,Vivienda,Álvaro Obregón
+906,2015.0,10.0,Pobreza alta,Hombre,12-29,11949.0,982149123904000.0,140765087610000.0,Vivienda,Álvaro Obregón
+907,2015.0,10.0,Pobreza alta,Hombre,45-59,5551.0,452325603500000.0,657874396500000.0,Vivienda,Álvaro Obregón
+908,2015.0,10.0,Pobreza alta,Hombre,60 y mas,2977.0,230883524683000.0,364516475317000.0,Vivienda,Álvaro Obregón
+909,2015.0,10.0,Pobreza alta,Mujer,60 y mas,4098.0,306938539182000.0,512661460818000.0,Vivienda,Álvaro Obregón
+910,2015.0,10.0,Pobreza alta,Mujer,No especificado,15.0,-144386228659000.0,444386228659000.0,Vivienda,Álvaro Obregón
+911,2015.0,10.0,Pobreza moderada,Hombre,12-29,23726.0,205896117857000.0,268623882143000.0,Vivienda,Álvaro Obregón
+912,2015.0,10.0,Pobreza moderada,Mujer,45-59,15862.0,133040491210000.0,184199508790000.0,Vivienda,Álvaro Obregón
+913,2015.0,10.0,Satisfaccion mínima,Mujer,0-11,6634.0,512774242783000.0,814025757217000.0,Vivienda,Álvaro Obregón
+914,2015.0,10.0,Satisfaccion mínima,Mujer,No especificado,35.0,-180471934888000.0,880471934888000.0,Vivienda,Álvaro Obregón
+915,2015.0,10.0,Estrato medio,Hombre,0-11,9275.0,702502300709000.0,1152497699290.0,Vivienda,Álvaro Obregón
+916,2015.0,10.0,Estrato medio,Mujer,30-44,21555.0,181752603264000.0,249347396736000.0,Vivienda,Álvaro Obregón
+917,2015.0,10.0,Estrato alto,Hombre,60 y mas,11338.0,925431942982000.0,134216805702000.0,Vivienda,Álvaro Obregón
+918,2015.0,10.0,Estrato alto,Hombre,No especificado,45.0,-181999343013000.0,108199934301000.0,Vivienda,Álvaro Obregón
+919,2015.0,10.0,Estrato alto,Mujer,12-29,9010.0,502227406379000.0,129977259362000.0,Vivienda,Álvaro Obregón
+920,2015.0,11.0,Pobreza muy alta,Hombre,12-29,12102.0,101335638747000.0,140704361253000.0,Vivienda,Tláhuac
+921,2015.0,11.0,Pobreza muy alta,Hombre,No especificado,41.0,-376398673343000.0,11963986733400.0,Vivienda,Tláhuac
+922,2015.0,11.0,Pobreza alta,Hombre,30-44,5295.0,408231120459000.0,650768879541000.0,Vivienda,Tláhuac
+923,2015.0,11.0,Pobreza alta,Mujer,12-29,6997.0,536192326847000.0,863207673153000.0,Vivienda,Tláhuac
+924,2015.0,11.0,Pobreza alta,Mujer,30-44,6643.0,519295760129000.0,809304239871000.0,Vivienda,Tláhuac
+925,2015.0,11.0,Pobreza alta,Mujer,60 y mas,2026.0,13679140604100.0,26840859395900.0,Vivienda,Tláhuac
+926,2015.0,11.0,Pobreza alta,Mujer,No especificado,1.0,-111796289659000.0,311796289659000.0,Vivienda,Tláhuac
+927,2015.0,11.0,Pobreza moderada,Hombre,30-44,11925.0,100341017386000.0,138158982614000.0,Vivienda,Tláhuac
+928,2015.0,11.0,Pobreza moderada,Hombre,45-59,8127.0,635392225483000.0,990007774517000.0,Vivienda,Tláhuac
+929,2015.0,11.0,Pobreza moderada,Hombre,60 y mas,5188.0,394744676600000.0,642855323400000.0,Vivienda,Tláhuac
+930,2015.0,11.0,Satisfaccion mínima,Hombre,0-11,2909.0,216468560101000.0,365331439899000.0,Vivienda,Tláhuac
+931,2015.0,11.0,Satisfaccion mínima,Hombre,12-29,7059.0,537507538057000.0,874292461943000.0,Vivienda,Tláhuac
+932,2015.0,11.0,Satisfaccion mínima,Hombre,30-44,5247.0,413881609328000.0,635518390672000.0,Vivienda,Tláhuac
+933,2015.0,11.0,Satisfaccion mínima,Mujer,45-59,5167.0,400480644171000.0,632919355829000.0,Vivienda,Tláhuac
+934,2015.0,11.0,Estrato medio,Hombre,0-11,3883.0,291707297774000.0,484892702226000.0,Vivienda,Tláhuac
+935,2015.0,11.0,Estrato alto,Hombre,0-11,572.0,230272571254000.0,913727428746000.0,Vivienda,Tláhuac
+936,2015.0,11.0,Estrato alto,Hombre,60 y mas,1804.0,124394807487000.0,236405192513000.0,Vivienda,Tláhuac
+937,2015.0,11.0,Estrato alto,Mujer,0-11,415.0,773726129968000.0,752627387003000.0,Vivienda,Tláhuac
+938,2015.0,11.0,Estrato alto,Mujer,12-29,2117.0,135136283280000.0,288263716720000.0,Vivienda,Tláhuac
+939,2015.0,11.0,Estrato alto,Mujer,30-44,2164.0,146220236876000.0,286579763124000.0,Vivienda,Tláhuac
+940,2015.0,11.0,Estrato alto,Mujer,45-59,2957.0,233176468774000.0,358223531226000.0,Vivienda,Tláhuac
+941,2015.0,11.0,Estrato alto,Mujer,60 y mas,2385.0,163666775386000.0,313333224614000.0,Vivienda,Tláhuac
+942,2015.0,12.0,Pobreza muy alta,Hombre,12-29,21721.0,176051776718000.0,258368223282000.0,Vivienda,Tlalpan
+943,2015.0,12.0,Pobreza muy alta,Mujer,12-29,24811.0,198379335158000.0,297840664842000.0,Vivienda,Tlalpan
+944,2015.0,12.0,Pobreza muy alta,Mujer,30-44,17105.0,141631962128000.0,200468037872000.0,Vivienda,Tlalpan
+945,2015.0,12.0,Pobreza muy alta,Mujer,45-59,8291.0,648956165309000.0,100924383469000.0,Vivienda,Tlalpan
+946,2015.0,12.0,Pobreza alta,Hombre,0-11,6930.0,542759981516000.0,843240018484000.0,Vivienda,Tlalpan
+947,2015.0,12.0,Pobreza alta,Hombre,60 y mas,2712.0,221517693844000.0,320882306156000.0,Vivienda,Tlalpan
+948,2015.0,12.0,Pobreza alta,Mujer,45-59,5367.0,44365752206300.0,62974247793700.0,Vivienda,Tlalpan
+949,2015.0,12.0,Pobreza alta,Mujer,60 y mas,2955.0,227522035335000.0,363477964665000.0,Vivienda,Tlalpan
+950,2015.0,12.0,Pobreza moderada,Hombre,12-29,22601.0,195047012765000.0,256972987235000.0,Vivienda,Tlalpan
+951,2015.0,12.0,Pobreza moderada,Hombre,30-44,16408.0,144272681514000.0,183887318486000.0,Vivienda,Tlalpan
+952,2015.0,12.0,Pobreza moderada,Hombre,45-59,12146.0,103974437420000.0,138945562580000.0,Vivienda,Tlalpan
+953,2015.0,12.0,Pobreza moderada,Mujer,0-11,12478.0,108629681236000.0,140930318764000.0,Vivienda,Tlalpan
+954,2015.0,12.0,Pobreza moderada,Mujer,12-29,21231.0,18237352070400.0,24224647929600.0,Vivienda,Tlalpan
+955,2015.0,12.0,Pobreza moderada,Mujer,45-59,14189.0,120507944621000.0,163272055379000.0,Vivienda,Tlalpan
+956,2015.0,12.0,Satisfaccion mínima,Hombre,12-29,10931.0,889120763213000.0,129707923679000.0,Vivienda,Tlalpan
+957,2015.0,12.0,Satisfaccion mínima,Hombre,45-59,7157.0,595569620446000.0,835830379554000.0,Vivienda,Tlalpan
+958,2015.0,12.0,Satisfaccion mínima,Mujer,0-11,5814.0,477936640896000.0,684863359104000.0,Vivienda,Tlalpan
+959,2015.0,12.0,Satisfaccion mínima,Mujer,12-29,11134.0,922460671636000.0,13043393283600.0,Vivienda,Tlalpan
+960,2015.0,12.0,Estrato medio,Hombre,No especificado,87.0,-395354632293000.0,213535463229000.0,Vivienda,Tlalpan
+961,2015.0,12.0,Estrato alto,Hombre,12-29,7997.0,621702852002000.0,977697147998000.0,Vivienda,Tlalpan
+962,2015.0,12.0,Estrato alto,Hombre,30-44,9377.0,752859333495000.0,11225406665100.0,Vivienda,Tlalpan
+963,2015.0,12.0,Estrato alto,Hombre,45-59,8811.0,703888215730000.0,105831178427000.0,Vivienda,Tlalpan
+964,2015.0,12.0,Estrato alto,Hombre,No especificado,1.0,-111796289659000.0,311796289659000.0,Vivienda,Tlalpan
+965,2015.0,12.0,Estrato alto,Mujer,0-11,2014.0,136900878326000.0,265899121674000.0,Vivienda,Tlalpan
+966,2015.0,12.0,Estrato alto,Mujer,12-29,7789.0,599442639400000.0,958357360600000.0,Vivienda,Tlalpan
+967,2015.0,12.0,Estrato alto,Mujer,60 y mas,15256.0,12143300637300.0,18368699362700.0,Vivienda,Tlalpan
+968,2015.0,12.0,Estrato alto,Mujer,No especificado,56.0,-248286011195000.0,112248286011000.0,Vivienda,Tlalpan
+969,2015.0,13.0,Pobreza muy alta,Hombre,0-11,14124.0,107951503897000.0,174528496103000.0,Vivienda,Xochimilco
+970,2015.0,13.0,Pobreza muy alta,Hombre,30-44,10720.0,797797332571000.0,134620266743000.0,Vivienda,Xochimilco
+971,2015.0,13.0,Pobreza muy alta,Hombre,45-59,5893.0,442537442270000.0,736062557730000.0,Vivienda,Xochimilco
+972,2015.0,13.0,Pobreza muy alta,Hombre,60 y mas,2422.0,177818535307000.0,306581464693000.0,Vivienda,Xochimilco
+973,2015.0,13.0,Pobreza muy alta,Hombre,No especificado,9.0,-418669908956000.0,221866990896000.0,Vivienda,Xochimilco
+974,2015.0,13.0,Pobreza muy alta,Mujer,45-59,5587.0,430625302288000.0,686774697712000.0,Vivienda,Xochimilco
+975,2015.0,13.0,Pobreza alta,Hombre,0-11,5104.0,369673403568000.0,651126596432000.0,Vivienda,Xochimilco
+976,2015.0,13.0,Pobreza alta,Hombre,No especificado,46.0,-461396803940000.0,138139680394000.0,Vivienda,Xochimilco
+977,2015.0,13.0,Pobreza alta,Mujer,60 y mas,2402.0,169836296590000.0,310563703410000.0,Vivienda,Xochimilco
+978,2015.0,13.0,Pobreza alta,Mujer,No especificado,19.0,-278050130285000.0,658050130285000.0,Vivienda,Xochimilco
+979,2015.0,13.0,Pobreza moderada,Hombre,0-11,9666.0,650669825261000.0,128253017474000.0,Vivienda,Xochimilco
+980,2015.0,13.0,Pobreza moderada,Hombre,12-29,15948.0,115940234736000.0,203019765264000.0,Vivienda,Xochimilco
+981,2015.0,13.0,Pobreza moderada,Mujer,12-29,15670.0,111706476909000.0,201693523091000.0,Vivienda,Xochimilco
+982,2015.0,13.0,Pobreza moderada,Mujer,60 y mas,6304.0,423730255173000.0,837069744827000.0,Vivienda,Xochimilco
+983,2015.0,13.0,Pobreza moderada,Mujer,No especificado,42.0,-413290037743000.0,125329003774000.0,Vivienda,Xochimilco
+984,2015.0,13.0,Satisfaccion mínima,Hombre,0-11,3086.0,208887156763000.0,408312843237000.0,Vivienda,Xochimilco
+985,2015.0,13.0,Satisfaccion mínima,Hombre,12-29,6009.0,380776458088000.0,821023541912000.0,Vivienda,Xochimilco
+986,2015.0,13.0,Satisfaccion mínima,Hombre,30-44,4945.0,316900985539000.0,672099014461000.0,Vivienda,Xochimilco
+987,2015.0,13.0,Satisfaccion mínima,Hombre,45-59,3543.0,246043537282000.0,462556462718000.0,Vivienda,Xochimilco
+988,2015.0,13.0,Satisfaccion mínima,Mujer,0-11,3388.0,116906933790000.0,560693066210000.0,Vivienda,Xochimilco
+989,2015.0,13.0,Satisfaccion mínima,Mujer,30-44,4715.0,306180824571000.0,636819175429000.0,Vivienda,Xochimilco
+990,2015.0,13.0,Satisfaccion mínima,Mujer,No especificado,26.0,-268143934086000.0,788143934086000.0,Vivienda,Xochimilco
+991,2015.0,13.0,Estrato medio,Hombre,0-11,5193.0,273101605479000.0,765498394521000.0,Vivienda,Xochimilco
+992,2015.0,13.0,Estrato medio,Mujer,30-44,9510.0,652177067762000.0,124982293224000.0,Vivienda,Xochimilco
+993,2015.0,13.0,Estrato medio,Mujer,60 y mas,7236.0,551926032203000.0,895273967797000.0,Vivienda,Xochimilco
+994,2015.0,13.0,Estrato alto,Hombre,45-59,4498.0,283631296096000.0,615968703904000.0,Vivienda,Xochimilco
+995,2015.0,13.0,Estrato alto,Hombre,60 y mas,3511.0,236757932470000.0,465442067530000.0,Vivienda,Xochimilco
+996,2015.0,13.0,Estrato alto,Mujer,0-11,927.0,484017148879000.0,136998285112000.0,Vivienda,Xochimilco
+997,2015.0,13.0,Estrato alto,Mujer,12-29,3125.0,19266549485800.0,43233450514200.0,Vivienda,Xochimilco
+998,2015.0,13.0,Estrato alto,Mujer,45-59,5018.0,345778088737000.0,657821911263000.0,Vivienda,Xochimilco
+999,2015.0,14.0,Pobreza muy alta,Mujer,45-59,1725.0,817624650268000.0,26323753497300.0,Vivienda,Benito Juárez
+1000,2015.0,14.0,Pobreza muy alta,Mujer,60 y mas,1146.0,526427746787000.0,17655722532100.0,Vivienda,Benito Juárez
+1001,2015.0,14.0,Pobreza muy alta,Mujer,No especificado,33.0,-243879613567000.0,903879613567000.0,Vivienda,Benito Juárez
+1002,2015.0,14.0,Pobreza alta,Hombre,12-29,2654.0,158419102869000.0,372380897131000.0,Vivienda,Benito Juárez
+1003,2015.0,14.0,Pobreza alta,Mujer,0-11,1853.0,960998683447000.0,27450013165500.0,Vivienda,Benito Juárez
+1004,2015.0,14.0,Pobreza alta,Mujer,12-29,2760.0,167186450449000.0,384813549551000.0,Vivienda,Benito Juárez
+1005,2015.0,14.0,Pobreza alta,Mujer,60 y mas,1135.0,614700993278000.0,165529900672000.0,Vivienda,Benito Juárez
+1006,2015.0,14.0,Pobreza moderada,Hombre,12-29,6831.0,456212545028000.0,909987454972000.0,Vivienda,Benito Juárez
+1007,2015.0,14.0,Pobreza moderada,Hombre,30-44,6833.0,482144380059000.0,884455619941000.0,Vivienda,Benito Juárez
+1008,2015.0,14.0,Pobreza moderada,Hombre,45-59,4350.0,284559436737000.0,585440563263000.0,Vivienda,Benito Juárez
+1009,2015.0,14.0,Pobreza moderada,Mujer,0-11,3624.0,192032187413000.0,532767812587000.0,Vivienda,Benito Juárez
+1010,2015.0,14.0,Pobreza moderada,Mujer,45-59,4992.0,357783248340000.0,640616751660000.0,Vivienda,Benito Juárez
+1011,2015.0,14.0,Satisfaccion mínima,Hombre,30-44,6911.0,495564957985000.0,886635042015000.0,Vivienda,Benito Juárez
+1012,2015.0,14.0,Satisfaccion mínima,Mujer,60 y mas,5069.0,354557740981000.0,659242259019000.0,Vivienda,Benito Juárez
+1013,2015.0,14.0,Estrato medio,Hombre,30-44,20014.0,169028853116000.0,231251146884000.0,Vivienda,Benito Juárez
+1014,2015.0,14.0,Estrato medio,Mujer,0-11,7336.0,567336329047000.0,899863670953000.0,Vivienda,Benito Juárez
+1015,2015.0,14.0,Estrato medio,Mujer,12-29,18258.0,152264164190000.0,212895835810000.0,Vivienda,Benito Juárez
+1016,2015.0,14.0,Estrato medio,Mujer,No especificado,6.0,-838139771137000.0,203813977114000.0,Vivienda,Benito Juárez
+1017,2015.0,14.0,Estrato alto,Hombre,30-44,14582.0,116798854295000.0,174841145705000.0,Vivienda,Benito Juárez
+1018,2015.0,14.0,Estrato alto,Mujer,60 y mas,20696.0,168422019112000.0,245497980888000.0,Vivienda,Benito Juárez
+1019,2015.0,15.0,Pobreza muy alta,Hombre,60 y mas,2410.0,159426337610000.0,322573662390000.0,Vivienda,Cuauhtémoc
+1020,2015.0,15.0,Pobreza muy alta,Hombre,No especificado,17.0,-180862444129000.0,520862444129000.0,Vivienda,Cuauhtémoc
+1021,2015.0,15.0,Pobreza muy alta,Mujer,30-44,7217.0,543590103517000.0,899809896483000.0,Vivienda,Cuauhtémoc
+1022,2015.0,15.0,Pobreza muy alta,Mujer,60 y mas,3566.0,211724056981000.0,501475943019000.0,Vivienda,Cuauhtémoc
+1023,2015.0,15.0,Pobreza alta,Mujer,0-11,5251.0,410596336655000.0,639603663345000.0,Vivienda,Cuauhtémoc
+1024,2015.0,15.0,Pobreza alta,Mujer,12-29,7298.0,556631455379000.0,902968544621000.0,Vivienda,Cuauhtémoc
+1025,2015.0,15.0,Pobreza moderada,Hombre,12-29,15224.0,123680443521000.0,180799556479000.0,Vivienda,Cuauhtémoc
+1026,2015.0,15.0,Satisfaccion mínima,Mujer,30-44,10355.0,87541381269600.0,119558618730000.0,Vivienda,Cuauhtémoc
+1027,2015.0,15.0,Satisfaccion mínima,Mujer,45-59,7979.0,645129594320000.0,950670405680000.0,Vivienda,Cuauhtémoc
+1028,2015.0,15.0,Estrato medio,Hombre,12-29,21152.0,174273289539000.0,248766710461000.0,Vivienda,Cuauhtémoc
+1029,2015.0,15.0,Estrato medio,Hombre,60 y mas,11303.0,936589236654000.0,13240107633500.0,Vivienda,Cuauhtémoc
+1030,2015.0,15.0,Estrato medio,Hombre,No especificado,50.0,-414351855214000.0,141435185521000.0,Vivienda,Cuauhtémoc
+1031,2015.0,15.0,Estrato medio,Mujer,0-11,6435.0,518553965865000.0,768446034135000.0,Vivienda,Cuauhtémoc
+1032,2015.0,15.0,Estrato medio,Mujer,12-29,21235.0,172503827378000.0,252196172622000.0,Vivienda,Cuauhtémoc
+1033,2015.0,15.0,Estrato medio,Mujer,No especificado,35.0,-32195249546900.0,732195249547000.0,Vivienda,Cuauhtémoc
+1034,2015.0,15.0,Estrato alto,Hombre,0-11,980.0,57846381074900.0,138153618925000.0,Vivienda,Cuauhtémoc
+1035,2015.0,16.0,Pobreza muy alta,Hombre,0-11,2765.0,165206229670000.0,387793770330000.0,Vivienda,Miguel Hidalgo
+1036,2015.0,16.0,Pobreza muy alta,Hombre,No especificado,25.0,-301068682022000.0,801068682022000.0,Vivienda,Miguel Hidalgo
+1037,2015.0,16.0,Pobreza muy alta,Mujer,0-11,2934.0,156026436953000.0,430773563047000.0,Vivienda,Miguel Hidalgo
+1038,2015.0,16.0,Pobreza alta,Hombre,45-59,1734.0,103646577859000.0,243153422141000.0,Vivienda,Miguel Hidalgo
+1039,2015.0,16.0,Pobreza alta,Mujer,0-11,2337.0,132294958186000.0,335105041814000.0,Vivienda,Miguel Hidalgo
+1040,2015.0,16.0,Pobreza alta,Mujer,30-44,3055.0,196403734081000.0,414596265919000.0,Vivienda,Miguel Hidalgo
+1041,2015.0,16.0,Pobreza moderada,Hombre,60 y mas,3243.0,216831240069000.0,431768759931000.0,Vivienda,Miguel Hidalgo
+1042,2015.0,16.0,Pobreza moderada,Mujer,0-11,4469.0,286210401617000.0,607589598383000.0,Vivienda,Miguel Hidalgo
+1043,2015.0,16.0,Pobreza moderada,Mujer,12-29,8268.0,567161452249000.0,108643854775000.0,Vivienda,Miguel Hidalgo
+1044,2015.0,16.0,Pobreza moderada,Mujer,30-44,7871.0,551369061049000.0,102283093895000.0,Vivienda,Miguel Hidalgo
+1045,2015.0,16.0,Pobreza moderada,Mujer,No especificado,47.0,-283138752631000.0,122313875263000.0,Vivienda,Miguel Hidalgo
+1046,2015.0,16.0,Satisfaccion mínima,Hombre,0-11,3969.0,222146556646000.0,571653443354000.0,Vivienda,Miguel Hidalgo
+1047,2015.0,16.0,Satisfaccion mínima,Hombre,12-29,6253.0,348493125608000.0,902106874392000.0,Vivienda,Miguel Hidalgo
+1048,2015.0,16.0,Satisfaccion mínima,Hombre,No especificado,38.0,-553480816221000.0,131348081622000.0,Vivienda,Miguel Hidalgo
+1049,2015.0,16.0,Satisfaccion mínima,Mujer,12-29,6124.0,326696254951000.0,898103745049000.0,Vivienda,Miguel Hidalgo
+1050,2015.0,16.0,Satisfaccion mínima,Mujer,45-59,4260.0,250202566793000.0,601797433207000.0,Vivienda,Miguel Hidalgo
+1051,2015.0,16.0,Satisfaccion mínima,Mujer,60 y mas,3453.0,21486064330500.0,47573935669500.0,Vivienda,Miguel Hidalgo
+1052,2015.0,16.0,Estrato medio,Hombre,0-11,7531.0,500392221186000.0,100580777881000.0,Vivienda,Miguel Hidalgo
+1053,2015.0,16.0,Estrato medio,Hombre,12-29,13406.0,883321830792000.0,179787816921000.0,Vivienda,Miguel Hidalgo
+1054,2015.0,16.0,Estrato medio,Hombre,60 y mas,7146.0,551804337366000.0,877395662634000.0,Vivienda,Miguel Hidalgo
+1055,2015.0,17.0,Pobreza muy alta,Hombre,30-44,7010.0,521358944912000.0,880641055088000.0,Vivienda,Venustiano Carranza
+1056,2015.0,17.0,Pobreza muy alta,Hombre,60 y mas,2258.0,138436413903000.0,313163586097000.0,Vivienda,Venustiano Carranza
+1057,2015.0,17.0,Pobreza muy alta,Mujer,12-29,11640.0,847322820110000.0,148067717989000.0,Vivienda,Venustiano Carranza
+1058,2015.0,17.0,Pobreza alta,Hombre,0-11,5958.0,450989273353000.0,740610726647000.0,Vivienda,Venustiano Carranza
+1059,2015.0,17.0,Pobreza alta,Hombre,30-44,5330.0,376502084658000.0,689497915342000.0,Vivienda,Venustiano Carranza
+1060,2015.0,17.0,Pobreza alta,Mujer,60 y mas,3297.0,224053930052000.0,435346069948000.0,Vivienda,Venustiano Carranza
+1061,2015.0,17.0,Pobreza moderada,Hombre,0-11,8458.0,623511357080000.0,106808864292000.0,Vivienda,Venustiano Carranza
+1062,2015.0,17.0,Pobreza moderada,Hombre,30-44,11607.0,929669649249000.0,139173035075000.0,Vivienda,Venustiano Carranza
+1063,2015.0,17.0,Pobreza moderada,Hombre,60 y mas,5949.0,455001426185000.0,734798573815000.0,Vivienda,Venustiano Carranza
+1064,2015.0,17.0,Pobreza moderada,Mujer,30-44,11816.0,960044157669000.0,140315584233000.0,Vivienda,Venustiano Carranza
+1065,2015.0,17.0,Satisfaccion mínima,Hombre,0-11,3672.0,269035377986000.0,465364622014000.0,Vivienda,Venustiano Carranza
+1066,2015.0,17.0,Satisfaccion mínima,Hombre,12-29,7623.0,546502786747000.0,978097213253000.0,Vivienda,Venustiano Carranza
+1067,2015.0,17.0,Satisfaccion mínima,Mujer,45-59,5720.0,452807226001000.0,691192773999000.0,Vivienda,Venustiano Carranza
+1068,2015.0,17.0,Estrato medio,Hombre,60 y mas,9212.0,770567779166000.0,107183222083000.0,Vivienda,Venustiano Carranza
+1069,2015.0,17.0,Estrato medio,Mujer,0-11,5823.0,433791840760000.0,730808159240000.0,Vivienda,Venustiano Carranza
+1070,2015.0,17.0,Estrato medio,Mujer,12-29,11608.0,938772628404000.0,13828273716000.0,Vivienda,Venustiano Carranza
+1071,2015.0,17.0,Estrato alto,Hombre,0-11,1037.0,394975885229000.0,167902411477000.0,Vivienda,Venustiano Carranza
+1072,2015.0,17.0,Estrato alto,Hombre,30-44,5077.0,39491897283200.0,62048102716800.0,Vivienda,Venustiano Carranza
+1073,2015.0,17.0,Estrato alto,Hombre,45-59,5636.0,415208016090000.0,711991983910000.0,Vivienda,Venustiano Carranza
+1074,2015.0,17.0,Estrato alto,Mujer,0-11,769.0,292080585853000.0,124591941415000.0,Vivienda,Venustiano Carranza
+1075,2015.0,17.0,Estrato alto,Mujer,45-59,6956.0,523384925833000.0,867815074167000.0,Vivienda,Venustiano Carranza
